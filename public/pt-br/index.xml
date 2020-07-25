@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kauê Braga</title>
+    <link>/pt-br/</link>
+    <description>Recent content on Kauê Braga</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="/pt-br/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contato</title>
+      <link>/pt-br/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pt-br/contact/</guid>
+      <description>Me siga em @joaoninguem.</description>
+    </item>
+    
+    <item>
+      <title>Projetos</title>
+      <link>/pt-br/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pt-br/projects/</guid>
+      <description>Aplicativos interativos Sistema de Transporte Público de Fortaleza (SIT-FOR)Aplicativo com as rotas das linhas de ônibus e informações gerais do SIT-FOR
+Projeto Acesso a OportunidadesAplicativo com resultados do projeto do IPEA Acesso a Oportunidades. Ganhou menção honrosa  no Shiny Contest 2020. Feito em parceira com Rafael Pereira
+</description>
+    </item>
+    
+    <item>
+      <title>Sobre</title>
+      <link>/pt-br/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pt-br/about/</guid>
+      <description>Sou mestre em Engenharia de Transporte pela Universidade Federal do Ceará e assistente de Pesquisa no Instituto de Pesquisa Econômica Aplicada (IPEA). Em geral sou apaixonado por análise de dados, com um foco maior na manipulação e visualização feitos na linguagem de programação R.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,8 +5,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 theme = "hugo-coder"
 
-languagecode = "en"
-defaultcontentlanguage = "en"
+languagecode = "pt-br"
+defaultcontentlanguage = "pt-br"
 
 paginate = 20
 canonifyurls = true
@@ -102,7 +102,7 @@ unsafe= true
             [[languages.en.menu.main]]
             name = "About"
             weight = 1
-            url = "about/"
+            url = "/en/about/"
 
             # [[languages.en.menu.main]]
             # name = "Blog"
@@ -112,7 +112,7 @@ unsafe= true
             [[languages.en.menu.main]]
             name = "Projects"
             weight = 3
-            url = "projects/"
+            url = "/en/projects/"
 
             # [[languages.en.menu.main]]
             # name = "Consulting"
@@ -122,7 +122,7 @@ unsafe= true
             # [[languages.en.menu.main]]
             # name = "Contact me"
             # weight = 6
-            # url = "contact/"
+            # url = "/en/contact/"
 
 
     [languages.pt-br]

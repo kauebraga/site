@@ -1,52 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Kauê Braga</title>
-    <link>/</link>
-    <description>Recent content on Kauê Braga</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>I have a masters degree in Transportation Engineering at Federal University of Ceará (UFC - Brazil) and am currently a research assistant at the Institute for Applied Economic Research (Ipea). I&amp;rsquo;m mostly passionate about data analysis with focus on data manipulation and visualization made in R.</description>
-    </item>
-    
-    <item>
-      <title>Consultoria</title>
-      <link>/consulting/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/consulting/</guid>
-      <description>Ofereço serviços de consultoria</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/contact/</guid>
-      <description>Follow me, @johndoe.</description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/projects/</guid>
-      <description>Interactive webapps Fortaleza&#39;s (Brazil) Public Transport System (SIT-FOR)Shinyapp with routes, bus lines and general information about SIT-FOR
-Access to Oportunities ProjectShinyapp with results of IPEA&#39;s project Access to Oportunities. Won honoroble mention  at the Shiny Contest 2020. Made in partnership Rafael Pereira
-</description>
-    </item>
-    
-  </channel>
-</rss>

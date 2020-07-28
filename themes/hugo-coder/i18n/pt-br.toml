@@ -22,3 +22,39 @@ other = "Você pode voltar para a <a href=\"{{ . }}\">página inicial</a>."
 
 [powered_by]
 other = "Promovido por"
+
+[January]
+other = "Janeiro"
+
+[February]
+other = "Fevereiro"
+
+[March]
+other = "Março"
+
+[April]
+other = "Abril"
+
+[May]
+other = "Maio"
+
+[June]
+other = "Junho"
+
+[July]
+other = "Julho"
+
+[August]
+other = "Agosto"
+
+[September]
+other = "Setembro"
+
+[October]
+other = "Outubro"
+
+[November]
+other = "Novembro"
+
+[December]
+other = "Dezembro"

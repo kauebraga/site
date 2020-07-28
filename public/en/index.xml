@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kauê Braga</title>
+    <link>/en/</link>
+    <description>Recent content on Kauê Braga</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>(Hu)go Template Primer</title>
+      <link>/en/posts/hugo-template-primer/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/en/posts/hugo-template-primer/</guid>
+      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
+This document is a brief primer on using go templates.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/en/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/en/about/</guid>
+      <description>I have a masters degree in Transportation Engineering at Federal University of Ceará (UFC - Brazil) and am currently a research assistant at the Institute for Applied Economic Research (Ipea). I&amp;rsquo;m mostly passionate about data analysis with focus on data manipulation and visualization made in R.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/en/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/en/contact/</guid>
+      <description>Follow me, @johndoe.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/en/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/en/projects/</guid>
+      <description>Interactive webapps Fortaleza&#39;s (Brazil) Public Transport System (SIT-FOR)Shinyapp with routes, bus lines and general information about SIT-FOR
+Access to Oportunities ProjectShinyapp with results of IPEA&#39;s project Access to Oportunities. Won honoroble mention  at the Shiny Contest 2020. Made in partnership Rafael Pereira
+</description>
+    </item>
+    
+  </channel>
+</rss>

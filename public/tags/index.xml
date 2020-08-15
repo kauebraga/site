@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Kauê Braga</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Thu, 17 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>dados abertos</title>
+      <link>/tags/dados-abertos/</link>
+      <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/dados-abertos/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>development</title>

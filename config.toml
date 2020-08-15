@@ -22,10 +22,10 @@ unsafe= true
 
 [params]
     author = "Kauê Braga"
-    description = "Meu site ne"
+    description = "My personal website"
     keywords = "blog,developer,personal"
     info = "Data • Graphics • Maps • R • Transportation"
-    # avatarurl = "images/avatar.jpg"
+    avatarurl = "images/my_photo.jpg"
     #gravatar = "john.doe@example.com"
     # footercontent = "Cientista de dados buscando trabalhos de consultoria"
 
@@ -75,7 +75,7 @@ unsafe= true
     name = "Email"
     icon = "fa fa-envelope"
     weight = 1
-    url = "mailto:kauebraga90@gmail.com"
+    url = "mailto:kaue@kauebraga.dev"
 [[params.social]]
     name = "Github"
     icon = "fab fa-github"
@@ -133,7 +133,7 @@ unsafe= true
             author = "Kauê Braga"
             info = "Dados • Gráficos • Mapas • R • Transportes"
             # bonito = "Interseção entre engenharia de transporte e ciência de dados"
-            description = "Meu site né"
+            description = "Meu site pessoal"
             keywords = "blog,desenvolvedor,pessoal"
             # footercontent = "Coloque algum texto aqui."
 

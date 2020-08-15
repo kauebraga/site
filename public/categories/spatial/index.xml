@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>spatial on Kauê Braga</title>
+    <link>/categories/spatial/</link>
+    <description>Recent content in spatial on Kauê Braga</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 29 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/spatial/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Teste, de novo!</title>
+      <link>/posts/teste-de-novo.pt-br/</link>
+      <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/teste-de-novo.pt-br/</guid>
+      <description>Pro primeiro post do blog, decidi mostrar como pegar os dados abertos da ANAC (e algo mais) e produzir gráficos e mapas interessantes sobre os padrões de deslocamento da população (especialmente em época de pandemia). Os outputs desse processo serão usados para o desenvolvimento desse app.
+Uma parte do código aqui mostrado também foi utilizado para produzir resultados que saíram recentemente neste paper da revista Science. Portanto, meu chefe e amigo Rafael Pereira tem grande influência no desenvolvimento e andamento do código :)</description>
+    </item>
+    
+  </channel>
+</rss>

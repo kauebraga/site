@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>brincadeira on Kauê Braga</title>
+    <link>/tags/brincadeira/</link>
+    <description>Recent content in brincadeira on Kauê Braga</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 29 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/brincadeira/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Teste, de novo!</title>
+      <link>/posts/teste-de-novo.pt-br/</link>
+      <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/teste-de-novo.pt-br/</guid>
+      <description>Pro primeiro post do blog, decidi mostrar como pegar os dados abertos da ANAC (e algo mais) e produzir resultados interessantes como a quantidade de passageiros por dia, a distância total viajada</description>
+    </item>
+    
+  </channel>
+</rss>

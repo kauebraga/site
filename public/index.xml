@@ -6,10 +6,20 @@
     <description>Recent content on Kauê Braga</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Teste, de novo!</title>
+      <link>/posts/teste-de-novo.pt-br/</link>
+      <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/teste-de-novo.pt-br/</guid>
+      <description>Pro primeiro post do blog, decidi mostrar como pegar os dados abertos da ANAC (e algo mais) e produzir gráficos e mapas interessantes sobre os padrões de deslocamento da população (especialmente em época de pandemia). Os outputs desse processo serão usados para o desenvolvimento desse app.
+Uma parte do código aqui mostrado também foi utilizado para produzir resultados que saíram recentemente neste paper da revista Science. Portanto, meu chefe e amigo Rafael Pereira tem grande influência no desenvolvimento e andamento do código :)</description>
+    </item>
     
     <item>
       <title>Twemoji Support 🤩</title>
@@ -138,7 +148,7 @@ pwd </description>
       <guid>/projects/</guid>
       <description>Aplicativos interativos Sistema de Transporte Público de Fortaleza (SIT-FOR)Aplicativo com as rotas das linhas de ônibus e informações gerais do SIT-FOR
 Projeto Acesso a OportunidadesAplicativo com resultados do projeto do IPEA Acesso a Oportunidades. Ganhou menção honrosa  no Shiny Contest 2020. Feito em parceira com Rafael Pereira
-</description>
+Tráfego aéreo de passageiros no BrasilExplore o tráfego aéreo de passageiros no Brasil com o uso de mapas e gráficos interativos</description>
     </item>
     
     <item>

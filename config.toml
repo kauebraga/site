@@ -154,6 +154,11 @@ unsafe= true
             weight = 3
             url = "projects/"
             
+            [[languages.pt-br.menu.main]]
+            name = "Teste"
+            weight = 4
+            url = "map/"
+            
             # [[languages.pt-br.menu.main]]
             # name = "Consultoria"
             # weight = 4

@@ -24,10 +24,11 @@ We&rsquo;ll start with creating a new site with a very basic template."/>
 <meta property="og:description" content="Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&rsquo;t cover using CSS to style your theme.
 We&rsquo;ll start with creating a new site with a very basic template." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="/posts/creating-a-new-theme/" />
-<meta property="article:published_time" content="2014-09-28T00:00:00+00:00" />
-<meta property="article:modified_time" content="2014-09-28T00:00:00+00:00" /><meta property="og:site_name" content="Kauê Braga" />
-
+<meta property="og:url" content="/posts/creating-a-new-theme/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2014-09-28T00:00:00&#43;00:00" />
+<meta property="article:modified_time" content="2014-09-28T00:00:00&#43;00:00" /><meta property="og:site_name" content="Kauê Braga" />
+<meta property="og:see_also" content="/posts/twemoji-support/" /><meta property="og:see_also" content="/posts/render-latex-using-katex/" /><meta property="og:see_also" content="/posts/theme-demo/" />
+<meta property="og:see_also" content="/posts/twemoji-support/" /><meta property="og:see_also" content="/posts/render-latex-using-katex/" /><meta property="og:see_also" content="/posts/hugo-coder-wiki/" /><meta property="og:see_also" content="/posts/theme-demo/" /><meta property="og:see_also" content="/posts/hugoisforlovers/" />
 
 
 
@@ -65,7 +66,7 @@ We&rsquo;ll start with creating a new site with a very basic template." />
     <link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
     <link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
 
-    <meta name="generator" content="Hugo 0.68.3" />
+    <meta name="generator" content="Hugo 0.81.0" />
   </head>
 
   
@@ -91,6 +92,10 @@ We&rsquo;ll start with creating a new site with a very basic template." />
         
           <li class="navigation-item">
             <a class="navigation-link" href="/projects/">Projetos</a>
+          </li>
+        
+          <li class="navigation-item">
+            <a class="navigation-link" href="/map/">Teste</a>
           </li>
         
       
@@ -617,7 +622,7 @@ $
 :wq
 
 $
-</code></pre></div><p>Hugo uses the Go template engine. That engine scans the template files for commands which are enclosed between &ldquo;{{&rdquo; and &ldquo;}}&quot;. In our template, the commands are:</p>
+</code></pre></div><p>Hugo uses the Go template engine. That engine scans the template files for commands which are enclosed between &ldquo;{{&rdquo; and &ldquo;}}&rdquo;. In our template, the commands are:</p>
 <ol>
 <li>range</li>
 <li>.Title</li>
@@ -805,7 +810,7 @@ i&#39;m speechless
 -rw-rw-r--  1 mdhender  staff   358 Sep 27 15:08 public/post/first-post/index.html
 -rw-rw-r--  1 mdhender  staff     0 Sep 27 15:08 public/post/index.html
 -rw-rw-r--  1 mdhender  staff   342 Sep 27 15:08 public/post/second-post/index.html
-</code></pre></div><p>Notice that the page wasn&rsquo;t created at the top level. It was created in a sub-directory named &lsquo;about-time/'. That name came from our slug. Hugo will use the slug to name the generated content. It&rsquo;s a reasonable default, by the way, but we can learn a few things by fighting it for this file.</p>
+</code></pre></div><p>Notice that the page wasn&rsquo;t created at the top level. It was created in a sub-directory named &lsquo;about-time/&rsquo;. That name came from our slug. Hugo will use the slug to name the generated content. It&rsquo;s a reasonable default, by the way, but we can learn a few things by fighting it for this file.</p>
 <p>One other thing. Take a look at the home page.</p>
 <div class="highlight"><pre style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">$ cat public/index.html
 &lt;!DOCTYPE html&gt;

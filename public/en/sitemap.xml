@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>/en/posts/hugo-template-primer/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/categories/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -20,9 +17,7 @@
                 hreflang="en"
                 href="/en/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -35,9 +30,7 @@
                 hreflang="en"
                 href="/en/categories/development/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -50,9 +43,7 @@
                 hreflang="en"
                 href="/en/tags/development/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/series/getting-started/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -65,9 +56,7 @@
                 hreflang="en"
                 href="/en/series/getting-started/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -80,9 +69,7 @@
                 hreflang="en"
                 href="/en/tags/go/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -95,9 +82,7 @@
                 hreflang="en"
                 href="/en/tags/golang/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -110,9 +95,7 @@
                 hreflang="en"
                 href="/en/categories/golang/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/series/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -125,9 +108,7 @@
                 hreflang="en"
                 href="/en/series/hugo/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -140,9 +121,7 @@
                 hreflang="en"
                 href="/en/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/posts/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -155,9 +134,7 @@
                 hreflang="en"
                 href="/en/posts/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/series/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -170,9 +147,7 @@
                 hreflang="en"
                 href="/en/series/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/tags/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -185,14 +160,10 @@
                 hreflang="en"
                 href="/en/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -205,9 +176,7 @@
                 hreflang="en"
                 href="/en/tags/themes/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/about/</loc>
     <xhtml:link
                 rel="alternate"
@@ -219,9 +188,7 @@
                 hreflang="en"
                 href="/en/about/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/contact/</loc>
     <xhtml:link
                 rel="alternate"
@@ -233,9 +200,7 @@
                 hreflang="en"
                 href="/en/contact/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/projects/</loc>
     <xhtml:link
                 rel="alternate"
@@ -248,5 +213,4 @@
                 href="/en/projects/"
                 />
   </url>
-  
 </urlset>

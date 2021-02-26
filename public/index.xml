@@ -6,11 +6,7 @@
     <description>Recent content on Kauê Braga</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Wed, 29 Jul 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 29 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Teste, de novo!</title>
       <link>/posts/teste-de-novo.pt-br/</link>
@@ -113,6 +109,15 @@ Follow the following steps:
     </item>
     
     <item>
+      <title></title>
+      <link>/projects/teste/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/teste/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Consultoria</title>
       <link>/consulting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -146,9 +151,9 @@ pwd </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/projects/</guid>
-      <description>Aplicativos interativos Sistema de Transporte Público de Fortaleza (SIT-FOR)Aplicativo com as rotas das linhas de ônibus e informações gerais do SIT-FOR
-Projeto Acesso a OportunidadesAplicativo com resultados do projeto do IPEA Acesso a Oportunidades. Ganhou menção honrosa  no Shiny Contest 2020. Feito em parceira com Rafael Pereira
-Tráfego aéreo de passageiros no BrasilExplore o tráfego aéreo de passageiros no Brasil com o uso de mapas e gráficos interativos</description>
+      <description>Aplicativos interativos Sistema de Transporte Público de Fortaleza (SIT-FOR) Aplicativo com as rotas das linhas de ônibus e informações gerais do SIT-FOR
+  Projeto Acesso a Oportunidades Aplicativo com resultados do projeto do IPEA Acesso a Oportunidades. Ganhou menção honrosa  no Shiny Contest 2020. Feito em parceira com Rafael Pereira
+  Tráfego aéreo de passageiros no Brasil Explore o tráfego aéreo de passageiros no Brasil com o uso de mapas e gráficos interativos</description>
     </item>
     
     <item>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>/categories/</loc>
     <lastmod>2020-07-29T00:00:00+00:00</lastmod>
@@ -15,14 +14,10 @@
                 hreflang="pt-br"
                 href="/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/dados-abertos/</loc>
     <lastmod>2020-07-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/</loc>
     <lastmod>2020-07-29T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -35,9 +30,7 @@
                 hreflang="pt-br"
                 href="/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/</loc>
     <lastmod>2020-07-29T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -50,19 +43,13 @@
                 hreflang="pt-br"
                 href="/posts/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/r/</loc>
     <lastmod>2020-07-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/spatial/</loc>
     <lastmod>2020-07-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/</loc>
     <lastmod>2020-07-29T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -75,14 +62,10 @@
                 hreflang="pt-br"
                 href="/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/teste-de-novo.pt-br/</loc>
     <lastmod>2020-07-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/series/hugo/</loc>
     <lastmod>2020-05-25T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -95,9 +78,7 @@
                 hreflang="pt-br"
                 href="/series/hugo/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/series/</loc>
     <lastmod>2020-05-25T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -110,24 +91,16 @@
                 hreflang="pt-br"
                 href="/series/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/series/theme/</loc>
     <lastmod>2020-05-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/twemoji-support/</loc>
     <lastmod>2020-05-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/render-latex-using-katex/</loc>
     <lastmod>2019-03-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/development/</loc>
     <lastmod>2019-01-17T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -140,9 +113,7 @@
                 hreflang="pt-br"
                 href="/categories/development/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/development/</loc>
     <lastmod>2019-01-17T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -155,19 +126,13 @@
                 hreflang="pt-br"
                 href="/tags/development/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/hugo/</loc>
     <lastmod>2019-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/hugo-coder-wiki/</loc>
     <lastmod>2019-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/themes/</loc>
     <lastmod>2019-01-17T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -180,34 +145,22 @@
                 hreflang="pt-br"
                 href="/tags/themes/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/blog/</loc>
     <lastmod>2018-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/dummy/</loc>
     <lastmod>2018-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/i18n/</loc>
     <lastmod>2018-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/theme-demo/</loc>
     <lastmod>2017-01-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/series/getting-started/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -220,14 +173,10 @@
                 hreflang="pt-br"
                 href="/series/getting-started/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -240,9 +189,7 @@
                 hreflang="pt-br"
                 href="/tags/go/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -255,9 +202,7 @@
                 hreflang="pt-br"
                 href="/tags/golang/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -270,18 +215,14 @@
                 hreflang="pt-br"
                 href="/categories/golang/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/projects/teste/</loc>
+  </url><url>
     <loc>/consulting/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/contact/</loc>
     <xhtml:link
                 rel="alternate"
@@ -293,13 +234,9 @@
                 hreflang="pt-br"
                 href="/contact/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/snippets/first/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/projects/</loc>
     <xhtml:link
                 rel="alternate"
@@ -311,17 +248,11 @@
                 hreflang="pt-br"
                 href="/projects/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/snippets/second/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/snippets/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/about/</loc>
     <xhtml:link
                 rel="alternate"
@@ -334,5 +265,4 @@
                 href="/about/"
                 />
   </url>
-  
 </urlset>

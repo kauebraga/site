@@ -9,7 +9,7 @@ slug = "projects"
 
   <!-- First Photo Grid-->
   <div class="w3-row-padding w3-padding-16 w3-center" id="apps_galery">
-    <div class="w3-half">
+    <div class="w3-third" id = "teste_hover">
       <a href="https://kauebraga.shinyapps.io/sitfor_linhas/">
       <img src="/images/app_sitfor.png" alt="App Sitfor" style="width:100%">
       <div class="w3-container w3-white">
@@ -17,7 +17,7 @@ slug = "projects"
       <p>Shinyapp with routes, bus lines and general information about SIT-FOR</p>
     </div>
     </div>
-    <div class="w3-half">
+    <div class="w3-third" id = "teste_hover2">
       <a href="https://rafa-pereira-br.shinyapps.io/accessibilityatlas/">
       <img src="/images/app_aop.png" alt="App Aop" style="width:100%">
       <div class="w3-container w3-white">

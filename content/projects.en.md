@@ -25,6 +25,14 @@ slug = "projects"
       <p>Shinyapp  with results of IPEA's project <a href = "https://www.ipea.gov.br/acessooportunidades/en/"> Access to Oportunities</a>. Won <a href = "https://blog.rstudio.com/2020/07/13/winners-of-the-2nd-shiny-contest/"> honoroble mention </a> at the Shiny Contest 2020. Made in partnership <a href = "https://www.urbandemographics.org/about/"> Rafael Pereira</a></p>
     </div>
     </div>
+     <div class="w3-third" id = "teste_hover3">
+      <a href="https://kauebraga.shinyapps.io/trafego_aereo/">
+      <img src="/images/app_trafego_aereo.jpg" alt="App Trafego Aereo" style="width:100%">
+      <div class="w3-container">
+      <h3>Air passenger flow</h3></a>
+      <p>Explore Brazil's passenger air traffic using interactive maps and graphics</p>
+    </div>
+    </div>
     </div>
   </div>
 </div>

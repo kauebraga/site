@@ -23,7 +23,8 @@ This document is a brief primer on using go templates.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/en/about/</guid>
-      <description>I have a masters degree in Transportation Engineering at Federal University of Ceará (UFC - Brazil) and am currently a research assistant at the Institute for Applied Economic Research (Ipea). I&amp;rsquo;m mostly passionate about data analysis with focus on data manipulation and visualization made in R.</description>
+      <description>I am a PhD candidate in Transportation Engineering at the Federal University of Ceará (UFC) and research assistant at the Institute for Applied Economic Research (IPEA). In short: I am passionate about cities and data.
+IPEA At Ipea I am part of the Access to Opportunities team. The project, created by my friend/boss Rafael Pereira at the beginning of 2019, has as main objective to calculate indicators of urban accessibility for the biggest Brazilian cities, aiming to subsidize researchers and public policy makers.</description>
     </item>
     
     <item>
@@ -41,9 +42,9 @@ This document is a brief primer on using go templates.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/en/projects/</guid>
-      <description>Interactive webapps Fortaleza&#39;s (Brazil) Public Transport System (SIT-FOR) Shinyapp with routes, bus lines and general information about SIT-FOR
-  Access to Oportunities Project Shinyapp with results of IPEA&#39;s project Access to Oportunities. Won honoroble mention  at the Shiny Contest 2020. Made in partnership Rafael Pereira
-     </description>
+      <description>Interactive webapps Fortaleza&#39;s (Brazil) Public Transport System (SIT-FOR)Shinyapp with routes, bus lines and general information about SIT-FOR
+Access to Oportunities ProjectShinyapp with results of IPEA&#39;s project Access to Oportunities. Won honoroble mention  at the Shiny Contest 2020. Made in partnership Rafael Pereira
+</description>
     </item>
     
   </channel>

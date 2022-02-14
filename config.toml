@@ -24,7 +24,7 @@ unsafe= true
     author = "Kauê Braga"
     description = "My personal website"
     keywords = "blog,developer,personal"
-    info = "Data • Graphics • Maps • R • Transportation"
+    info = "Cities • Data • Graphics • Maps • R"
     avatarurl = "images/my_photo.jpg"
     #gravatar = "john.doe@example.com"
     # footercontent = "Cientista de dados buscando trabalhos de consultoria"
@@ -113,6 +113,13 @@ unsafe= true
             name = "Projects"
             weight = 3
             url = "/en/projects/"
+			
+			
+            # [[languages.en.menu.main]]
+            # name = "Publications"
+            # weight = 4
+            # url = "/en/publications/"
+			
 
             # [[languages.en.menu.main]]
             # name = "Consulting"
@@ -131,7 +138,7 @@ unsafe= true
 
         [languages.pt-br.params]
             author = "Kauê Braga"
-            info = "Dados • Gráficos • Mapas • R • Transportes"
+            info = "Cidades • Dados • Gráficos • Mapas • R"
             # bonito = "Interseção entre engenharia de transporte e ciência de dados"
             description = "Meu site pessoal"
             keywords = "blog,desenvolvedor,pessoal"
@@ -154,10 +161,10 @@ unsafe= true
             weight = 3
             url = "projects/"
             
-            [[languages.pt-br.menu.main]]
-            name = "Teste"
-            weight = 4
-            url = "map/"
+            # [[languages.pt-br.menu.main]]
+            # name = "Teste"
+            # weight = 4
+            # url = "map/"
             
             # [[languages.pt-br.menu.main]]
             # name = "Consultoria"

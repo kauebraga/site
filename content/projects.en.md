@@ -34,6 +34,15 @@ slug = "projects"
     </div>
     </div>
     </div>
+     <div class="w3-third" id = "teste_hover4">
+      <a href="https://apps.kauebraga.dev/shiny/painel_vacinacao_covid/">
+      <img src="/images/app_vac.png" alt="COVID-19 Vaccination" style="width:100%">
+      <div class="w3-container">
+      <h3>COVID-19 Vaccination: Brazil</h3></a>
+      <p>Explore Brazil's COVID-19 vaccination progress</p>
+    </div>
+    </div>
+    </div>
   </div>
 </div>
 

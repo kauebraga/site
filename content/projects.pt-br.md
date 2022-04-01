@@ -33,6 +33,14 @@ slug = "projects"
       <p>Explore o tráfego aéreo de passageiros no Brasil com o uso de mapas e gráficos interativos</p>
     </div>
     </div>
+         <div class="w3-third" id = "teste_hover4">
+      <a href="https://apps.kauebraga.dev/shiny/painel_vacinacao_covid/">
+      <img src="/images/app_vac.png" alt="COVID-19 Vaccination" style="width:100%">
+      <div class="w3-container">
+      <h3>Vacinacao COVID-19 no Brasil</h3></a>
+      <p>Explore o progresso da vacinacao COVID-19 no Brasil</p>
+    </div>
+    </div>
     </div>
   </div>
 </div>

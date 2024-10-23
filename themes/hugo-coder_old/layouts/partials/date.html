@@ -1,5 +1,0 @@
-{{ if eq "pt-br" .language.Lang }}
-    {{ .date.Day }}. {{ index .mes (printf "%d" .date.Month) }} {{ .date.Year }}
-{{ else }}
-    {{ .date.Format "2 January, 2006" }}
-{{ end }}

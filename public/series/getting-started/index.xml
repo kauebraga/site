@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Getting Started on Kauê Braga</title>
-    <link>//localhost:4321/series/getting-started/</link>
+    <link>/series/getting-started/</link>
     <description>Recent content in Getting Started on Kauê Braga</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:4321/series/getting-started/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/series/getting-started/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>(Hu)go Template Primer</title>
-      <link>//localhost:4321/posts/hugo-template-primer/</link>
+      <link>/posts/hugo-template-primer/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/posts/hugo-template-primer/</guid>
+      <guid>/posts/hugo-template-primer/</guid>
       <description>&lt;p&gt;Hugo uses the excellent &lt;a href=&#34;http://golang.org/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;go&lt;/a&gt; &lt;a href=&#34;http://golang.org/pkg/html/template/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;html/template&lt;/a&gt; library for&#xA;its template engine. It is an extremely lightweight engine that provides a very&#xA;small amount of logic. In our experience that it is just the right amount of&#xA;logic to be able to create a good static website. If you have used other&#xA;template systems from different languages or frameworks you will find a lot of&#xA;similarities in go templates.&lt;/p&gt;&#xA;&lt;p&gt;This document is a brief primer on using go templates. The &lt;a href=&#34;http://golang.org/pkg/html/template/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;go docs&lt;/a&gt;&#xA;provide more details.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Getting Started with Hugo</title>
-      <link>//localhost:4321/posts/hugoisforlovers/</link>
+      <link>/posts/hugoisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/posts/hugoisforlovers/</guid>
-      <description>&lt;h2 id=&#34;step-1-install-hugo&#34;&gt;&#xA;  Step 1. Install Hugo&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#step-1-install-hugo&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Goto &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hugo releases&lt;/a&gt; and download the&#xA;appropriate version for your os and architecture.&lt;/p&gt;&#xA;&lt;p&gt;Save it somewhere specific as we will be using it in the next step.&lt;/p&gt;&#xA;&lt;p&gt;More complete instructions are available at &lt;a href=&#34;//localhost:4321/overview/installing/&#34; &gt;installing hugo&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;step-2-build-the-docs&#34;&gt;&#xA;  Step 2. Build the Docs&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#step-2-build-the-docs&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Hugo has its own example site which happens to also be the documentation site&#xA;you are reading right now.&lt;/p&gt;</description>
+      <guid>/posts/hugoisforlovers/</guid>
+      <description>&lt;h2 id=&#34;step-1-install-hugo&#34;&gt;&#xA;  Step 1. Install Hugo&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#step-1-install-hugo&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Goto &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hugo releases&lt;/a&gt; and download the&#xA;appropriate version for your os and architecture.&lt;/p&gt;&#xA;&lt;p&gt;Save it somewhere specific as we will be using it in the next step.&lt;/p&gt;&#xA;&lt;p&gt;More complete instructions are available at &lt;a href=&#34;/overview/installing/&#34; &gt;installing hugo&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;step-2-build-the-docs&#34;&gt;&#xA;  Step 2. Build the Docs&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#step-2-build-the-docs&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Hugo has its own example site which happens to also be the documentation site&#xA;you are reading right now.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Migrate to Hugo from Jekyll</title>
-      <link>//localhost:4321/posts/migrate-from-jekyll/</link>
+      <link>/posts/migrate-from-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/posts/migrate-from-jekyll/</guid>
+      <guid>/posts/migrate-from-jekyll/</guid>
       <description>&lt;h1 id=&#34;table-of-contents&#34;&gt;&#xA;  Table of Contents&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#table-of-contents&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#move-static-content-to-static&#34; &gt;Move static content to &lt;code&gt;static&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#create-your-hugo-configuration-file&#34; &gt;Create your Hugo configuration file&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#set-your-configuration-publish-folder-to-site&#34; &gt;Set your configuration publish folder to &lt;code&gt;site&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#convert-jekyll-templates-to-hugo-templates&#34; &gt;Convert Jekyll templates to Hugo templates&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#convert-jekyll-plugins-to-hugo-shortcodes&#34; &gt;Convert Jekyll plugins to Hugo shortcodes&lt;/a&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#implementation&#34; &gt;Implementation&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#usage&#34; &gt;Usage&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#finishing-touches&#34; &gt;Finishing Touches&lt;/a&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#fix-content&#34; &gt;Fix Content&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#clean-up&#34; &gt;Clean Up&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#a-practical-example-in-a-diff&#34; &gt;A practical example in a diff&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;move-static-content-to-static&#34;&gt;&#xA;  Move static content to &lt;code&gt;static&lt;/code&gt;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#move-static-content-to-static&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Jekyll has a rule that any directory not starting with &lt;code&gt;_&lt;/code&gt; will be copied as-is to the &lt;code&gt;_site&lt;/code&gt; output. Hugo keeps all static content under &lt;code&gt;static&lt;/code&gt;. You should therefore move it all there.&#xA;With Jekyll, something that looked like&lt;/p&gt;</description>
     </item>
   </channel>

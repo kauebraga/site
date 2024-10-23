@@ -2,138 +2,138 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:4321/pt-br/categories/</loc>
+    <loc>/pt-br/categories/</loc>
     <lastmod>2020-07-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:4321/categories/"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="//localhost:4321/pt-br/categories/"
+                href="/pt-br/categories/"
                 />
   </url><url>
-    <loc>//localhost:4321/pt-br/tags/dados-abertos/</loc>
+    <loc>/pt-br/tags/dados-abertos/</loc>
     <lastmod>2020-07-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/pt-br/</loc>
+    <loc>/pt-br/</loc>
     <lastmod>2020-07-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:4321/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="//localhost:4321/pt-br/"
+                href="/pt-br/"
                 />
   </url><url>
-    <loc>//localhost:4321/pt-br/posts/</loc>
+    <loc>/pt-br/posts/</loc>
     <lastmod>2020-07-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:4321/posts/"
+                href="/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="//localhost:4321/pt-br/posts/"
+                href="/pt-br/posts/"
                 />
   </url><url>
-    <loc>//localhost:4321/pt-br/categories/r/</loc>
+    <loc>/pt-br/categories/r/</loc>
     <lastmod>2020-07-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/pt-br/categories/spatial/</loc>
+    <loc>/pt-br/categories/spatial/</loc>
     <lastmod>2020-07-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/pt-br/tags/</loc>
+    <loc>/pt-br/tags/</loc>
     <lastmod>2020-07-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:4321/tags/"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="//localhost:4321/pt-br/tags/"
+                href="/pt-br/tags/"
                 />
   </url><url>
-    <loc>//localhost:4321/pt-br/posts/teste-de-novo.pt-br/</loc>
+    <loc>/pt-br/posts/teste-de-novo.pt-br/</loc>
     <lastmod>2020-07-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/pt-br/categories/blog/</loc>
+    <loc>/pt-br/categories/blog/</loc>
     <lastmod>2018-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/pt-br/posts/dummy/</loc>
+    <loc>/pt-br/posts/dummy/</loc>
     <lastmod>2018-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/pt-br/tags/hugo/</loc>
+    <loc>/pt-br/tags/hugo/</loc>
     <lastmod>2018-12-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:4321/tags/hugo/"
+                href="/tags/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="//localhost:4321/pt-br/tags/hugo/"
+                href="/pt-br/tags/hugo/"
                 />
   </url><url>
-    <loc>//localhost:4321/pt-br/tags/i18n/</loc>
+    <loc>/pt-br/tags/i18n/</loc>
     <lastmod>2018-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/pt-br/contact/</loc>
+    <loc>/pt-br/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:4321/contact/"
+                href="/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="//localhost:4321/pt-br/contact/"
+                href="/pt-br/contact/"
                 />
   </url><url>
-    <loc>//localhost:4321/pt-br/projects/</loc>
+    <loc>/pt-br/projects/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:4321/projects/"
+                href="/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="//localhost:4321/pt-br/projects/"
+                href="/pt-br/projects/"
                 />
   </url><url>
-    <loc>//localhost:4321/pt-br/series/</loc>
+    <loc>/pt-br/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:4321/series/"
+                href="/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="//localhost:4321/pt-br/series/"
+                href="/pt-br/series/"
                 />
   </url><url>
-    <loc>//localhost:4321/pt-br/about/</loc>
+    <loc>/pt-br/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:4321/about/"
+                href="/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="//localhost:4321/pt-br/about/"
+                href="/pt-br/about/"
                 />
   </url>
 </urlset>

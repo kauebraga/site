@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=4321&amp;path=livereload" data-no-instant defer></script>
+<head>
   <title>
   Creating a New Theme · Kauê Braga
 </title>
@@ -29,7 +29,7 @@ This tutorial will show you how to create a simple theme in Hugo. I assume that 
   <meta name="twitter:title" content="Creating a New Theme">
   <meta name="twitter:description" content="Introduction Link to heading This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I’ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won’t cover using CSS to style your theme.">
 
-<meta property="og:url" content="//localhost:4321/posts/creating-a-new-theme/">
+<meta property="og:url" content="/posts/creating-a-new-theme/">
   <meta property="og:site_name" content="Kauê Braga">
   <meta property="og:title" content="Creating a New Theme">
   <meta property="og:description" content="Introduction Link to heading This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I’ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won’t cover using CSS to style your theme.">
@@ -38,30 +38,30 @@ This tutorial will show you how to create a simple theme in Hugo. I assume that 
     <meta property="article:section" content="posts">
     <meta property="article:published_time" content="2014-09-28T00:00:00+00:00">
     <meta property="article:modified_time" content="2014-09-28T00:00:00+00:00">
-      <meta property="og:see_also" content="//localhost:4321/posts/twemoji-support/">
-      <meta property="og:see_also" content="//localhost:4321/posts/render-latex-using-katex/">
-      <meta property="og:see_also" content="//localhost:4321/posts/theme-demo/">
-      <meta property="og:see_also" content="//localhost:4321/posts/twemoji-support/">
-      <meta property="og:see_also" content="//localhost:4321/posts/render-latex-using-katex/">
-      <meta property="og:see_also" content="//localhost:4321/posts/hugo-coder-wiki/">
-      <meta property="og:see_also" content="//localhost:4321/posts/theme-demo/">
-      <meta property="og:see_also" content="//localhost:4321/posts/hugo-template-primer/">
-      <meta property="og:see_also" content="//localhost:4321/posts/hugoisforlovers/">
+      <meta property="og:see_also" content="/posts/twemoji-support/">
+      <meta property="og:see_also" content="/posts/render-latex-using-katex/">
+      <meta property="og:see_also" content="/posts/theme-demo/">
+      <meta property="og:see_also" content="/posts/twemoji-support/">
+      <meta property="og:see_also" content="/posts/render-latex-using-katex/">
+      <meta property="og:see_also" content="/posts/hugo-coder-wiki/">
+      <meta property="og:see_also" content="/posts/theme-demo/">
+      <meta property="og:see_also" content="/posts/hugo-template-primer/">
+      <meta property="og:see_also" content="/posts/hugoisforlovers/">
 
 
 
 
-<link rel="canonical" href="//localhost:4321/posts/creating-a-new-theme/">
+<link rel="canonical" href="/posts/creating-a-new-theme/">
 
 
-<link rel="preload" href="//localhost:4321/fonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="preload" href="//localhost:4321/fonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="preload" href="//localhost:4321/fonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
 
 
   
   
-  <link rel="stylesheet" href="//localhost:4321/css/coder.css" media="screen">
+  <link rel="stylesheet" href="/css/coder.min.aa5ef26fa979d6793724ae2dbd71efa94fd16cb1c5c7db3b6651f21f9892a5fd.css" integrity="sha256-ql7yb6l51nk3JK4tvXHvqU/RbLHFx9s7ZlHyH5iSpf0=" crossorigin="anonymous" media="screen" />
 
 
 
@@ -75,15 +75,15 @@ This tutorial will show you how to create a simple theme in Hugo. I assume that 
 
 
 
-<link rel="icon" type="image/svg+xml" href="//localhost:4321/images/favicon.svg" sizes="any">
-<link rel="icon" type="image/png" href="//localhost:4321/images/favicon-32x32.png" sizes="32x32">
-<link rel="icon" type="image/png" href="//localhost:4321/images/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/svg+xml" href="/images/favicon.svg" sizes="any">
+<link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
 
-<link rel="apple-touch-icon" href="//localhost:4321/images/apple-touch-icon.png">
-<link rel="apple-touch-icon" sizes="180x180" href="//localhost:4321/images/apple-touch-icon.png">
+<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
 
-<link rel="manifest" href="//localhost:4321/site.webmanifest">
-<link rel="mask-icon" href="//localhost:4321/images/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
 
 
 
@@ -111,7 +111,7 @@ This tutorial will show you how to create a simple theme in Hugo. I assume that 
     <nav class="navigation">
   <section class="container">
     
-    <a class="navigation-title" href="//localhost:4321/">
+    <a class="navigation-title" href="/">
       Kauê Braga
     </a>
     
@@ -124,19 +124,19 @@ This tutorial will show you how to create a simple theme in Hugo. I assume that 
         
           
             <li class="navigation-item">
-              <a class="navigation-link " href="//localhost:4321/en/about/">About me</a>
+              <a class="navigation-link " href="/en/about/">About me</a>
             </li>
           
             <li class="navigation-item">
-              <a class="navigation-link " href="//localhost:4321/en/experience">My work</a>
+              <a class="navigation-link " href="/en/experience">My work</a>
             </li>
           
             <li class="navigation-item">
-              <a class="navigation-link " href="//localhost:4321/en/projects/">Projects</a>
+              <a class="navigation-link " href="/en/projects/">Projects</a>
             </li>
           
             <li class="navigation-item">
-              <a class="navigation-link " href="//localhost:4321/en/posts/">Blog</a>
+              <a class="navigation-link " href="/en/posts/">Blog</a>
             </li>
           
         
@@ -152,7 +152,7 @@ This tutorial will show you how to create a simple theme in Hugo. I assume that 
                 
               
               <li class="navigation-item">
-                <a href="//localhost:4321/pt-br/">Português</a>
+                <a href="/pt-br/">Português</a>
               </li>
             
           
@@ -172,7 +172,7 @@ This tutorial will show you how to create a simple theme in Hugo. I assume that 
       <header>
         <div class="post-title">
           <h1 class="title">
-            <a class="title-link" href="//localhost:4321/posts/creating-a-new-theme/">
+            <a class="title-link" href="/posts/creating-a-new-theme/">
               Creating a New Theme
             </a>
           </h1>
@@ -1298,19 +1298,19 @@ This tutorial will show you how to create a simple theme in Hugo. I assume that 
         
           
             <li>
-              <a href="//localhost:4321/posts/twemoji-support/">Twemoji Support 🤩</a>
+              <a href="/posts/twemoji-support/">Twemoji Support 🤩</a>
             </li>
           
         
           
             <li>
-              <a href="//localhost:4321/posts/render-latex-using-katex/">Render LaTeX using KaTeX</a>
+              <a href="/posts/render-latex-using-katex/">Render LaTeX using KaTeX</a>
             </li>
           
         
           
             <li>
-              <a href="//localhost:4321/posts/theme-demo/">Theme Demo</a>
+              <a href="/posts/theme-demo/">Theme Demo</a>
             </li>
           
         
@@ -1336,13 +1336,13 @@ This tutorial will show you how to create a simple theme in Hugo. I assume that 
         
           
             <li>
-              <a href="//localhost:4321/posts/twemoji-support/">Twemoji Support 🤩</a>
+              <a href="/posts/twemoji-support/">Twemoji Support 🤩</a>
             </li>
           
         
           
             <li>
-              <a href="//localhost:4321/posts/render-latex-using-katex/">Render LaTeX using KaTeX</a>
+              <a href="/posts/render-latex-using-katex/">Render LaTeX using KaTeX</a>
             </li>
           
         
@@ -1354,7 +1354,7 @@ This tutorial will show you how to create a simple theme in Hugo. I assume that 
         
           
             <li>
-              <a href="//localhost:4321/posts/theme-demo/">Theme Demo</a>
+              <a href="/posts/theme-demo/">Theme Demo</a>
             </li>
           
         
@@ -1362,7 +1362,7 @@ This tutorial will show you how to create a simple theme in Hugo. I assume that 
         
           
             <li>
-              <a href="//localhost:4321/posts/hugo-template-primer/">(Hu)go Template Primer</a>
+              <a href="/posts/hugo-template-primer/">(Hu)go Template Primer</a>
             </li>
           
         
@@ -1413,15 +1413,9 @@ This tutorial will show you how to create a simple theme in Hugo. I assume that 
 
     <footer class="footer">
   <section class="container">
-    ©
-    
-      2019 -
-    
-    2024
-     Kauê Braga 
+
     ·
     
-    Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/" target="_blank" rel="noopener">Coder</a>.
     
   </section>
 </footer>
@@ -1432,7 +1426,7 @@ This tutorial will show you how to create a simple theme in Hugo. I assume that 
 
   
   
-  <script src="//localhost:4321/js/coder.js"></script>
+  <script src="/js/coder.min.6ae284be93d2d19dad1f02b0039508d9aab3180a12a06dcc71b0b0ef7825a317.js" integrity="sha256-auKEvpPS0Z2tHwKwA5UI2aqzGAoSoG3McbCw73gloxc="></script>
   
 
   

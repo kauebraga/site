@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kauê Braga</title>
-    <link>//localhost:4321/pt-br/</link>
+    <link>/pt-br/</link>
     <description>Recent content on Kauê Braga</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 29 Jul 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:4321/pt-br/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/pt-br/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Teste, de novo!</title>
-      <link>//localhost:4321/pt-br/posts/teste-de-novo.pt-br/</link>
+      <link>/pt-br/posts/teste-de-novo.pt-br/</link>
       <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/pt-br/posts/teste-de-novo.pt-br/</guid>
+      <guid>/pt-br/posts/teste-de-novo.pt-br/</guid>
       <description>&lt;p&gt;Pro primeiro post do blog, decidi mostrar como pegar os dados abertos da ANAC (e algo mais) e produzir gráficos e mapas interessantes sobre os padrões de deslocamento da população (especialmente em época de pandemia). Os outputs desse processo serão usados para o desenvolvimento desse app.&lt;/p&gt;&#xA;&lt;p&gt;Uma parte do código aqui mostrado também foi utilizado para produzir resultados que saíram recentemente neste paper da revista Science. Portanto, meu chefe e amigo Rafael Pereira tem grande influência no desenvolvimento e andamento do código :)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dummy</title>
-      <link>//localhost:4321/pt-br/posts/dummy/</link>
+      <link>/pt-br/posts/dummy/</link>
       <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/pt-br/posts/dummy/</guid>
+      <guid>/pt-br/posts/dummy/</guid>
       <description>&lt;p&gt;Nada para ver aqui!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contato</title>
-      <link>//localhost:4321/pt-br/contact/</link>
+      <link>/pt-br/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/pt-br/contact/</guid>
+      <guid>/pt-br/contact/</guid>
       <description>&lt;p&gt;Me siga em @joaoninguem.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Projetos</title>
-      <link>//localhost:4321/pt-br/projects/</link>
+      <link>/pt-br/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/pt-br/projects/</guid>
-      <description>&lt;h2 id=&#34;aplicativos-interativos&#34;&gt;&#xA;  Aplicativos interativos&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#aplicativos-interativos&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link para o cabeçalho&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link para o cabeçalho&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;div class=&#34;w3-main w3-content w3-padding&#34; style=&#34;max-width:1200px;margin-top:30px&#34;&gt;&#xA;  &lt;!-- First Photo Grid--&gt;&#xA;  &lt;div class=&#34;w3-row-padding w3-padding-16 w3-center&#34; id=&#34;apps_galery&#34;&gt;&#xA;    &lt;div class=&#34;w3-third&#34; id = &#34;teste_hover&#34;&gt;&#xA;      &lt;a href=&#34;https://kauebraga.shinyapps.io/sitfor_linhas/&#34;&gt;&#xA;      &lt;img src=&#34;//localhost:4321/images/app_sitfor.png&#34; alt=&#34;App Sitfor&#34; style=&#34;width:100%&#34;&gt;&#xA;      &lt;div class=&#34;w3-container&#34;&gt;&#xA;      &lt;h3&gt;Sistema de Transporte Público de Fortaleza (SIT-FOR)&lt;/h3&gt;&lt;/a&gt;&#xA;      &lt;p&gt;Aplicativo com as rotas das linhas de ônibus e informações gerais do SIT-FOR&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;w3-third&#34; id = &#34;teste_hover2&#34;&gt;&#xA;      &lt;a href=&#34;https://rafa-pereira-br.shinyapps.io/accessibilityatlas/&#34;&gt;&#xA;      &lt;img src=&#34;//localhost:4321/images/app_aop.png&#34; alt=&#34;App Aop&#34; style=&#34;width:100%&#34;&gt;&#xA;      &lt;div class=&#34;w3-container&#34;&gt;&#xA;      &lt;h3&gt;Projeto Acesso a Oportunidades&lt;/h3&gt;&lt;/a&gt;&#xA;      &lt;p&gt;Aplicativo com resultados do projeto do IPEA &lt;a href = &#34;https://www.ipea.gov.br/acessooportunidades&#34;&gt; Acesso a Oportunidades&lt;/a&gt;. Ganhou &lt;a href = &#34;https://blog.rstudio.com/2020/07/13/winners-of-the-2nd-shiny-contest/&#34;&gt; menção honrosa &lt;/a&gt; no Shiny Contest 2020. Feito em parceira com &lt;a href = &#34;https://www.urbandemographics.org/about/&#34;&gt; Rafael Pereira&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>/pt-br/projects/</guid>
+      <description>&lt;h2 id=&#34;aplicativos-interativos&#34;&gt;&#xA;  Aplicativos interativos&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#aplicativos-interativos&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link para o cabeçalho&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link para o cabeçalho&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;div class=&#34;w3-main w3-content w3-padding&#34; style=&#34;max-width:1200px;margin-top:30px&#34;&gt;&#xA;  &lt;!-- First Photo Grid--&gt;&#xA;  &lt;div class=&#34;w3-row-padding w3-padding-16 w3-center&#34; id=&#34;apps_galery&#34;&gt;&#xA;    &lt;div class=&#34;w3-third&#34; id = &#34;teste_hover&#34;&gt;&#xA;      &lt;a href=&#34;https://kauebraga.shinyapps.io/sitfor_linhas/&#34;&gt;&#xA;      &lt;img src=&#34;/images/app_sitfor.png&#34; alt=&#34;App Sitfor&#34; style=&#34;width:100%&#34;&gt;&#xA;      &lt;div class=&#34;w3-container&#34;&gt;&#xA;      &lt;h3&gt;Sistema de Transporte Público de Fortaleza (SIT-FOR)&lt;/h3&gt;&lt;/a&gt;&#xA;      &lt;p&gt;Aplicativo com as rotas das linhas de ônibus e informações gerais do SIT-FOR&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;w3-third&#34; id = &#34;teste_hover2&#34;&gt;&#xA;      &lt;a href=&#34;https://rafa-pereira-br.shinyapps.io/accessibilityatlas/&#34;&gt;&#xA;      &lt;img src=&#34;/images/app_aop.png&#34; alt=&#34;App Aop&#34; style=&#34;width:100%&#34;&gt;&#xA;      &lt;div class=&#34;w3-container&#34;&gt;&#xA;      &lt;h3&gt;Projeto Acesso a Oportunidades&lt;/h3&gt;&lt;/a&gt;&#xA;      &lt;p&gt;Aplicativo com resultados do projeto do IPEA &lt;a href = &#34;https://www.ipea.gov.br/acessooportunidades&#34;&gt; Acesso a Oportunidades&lt;/a&gt;. Ganhou &lt;a href = &#34;https://blog.rstudio.com/2020/07/13/winners-of-the-2nd-shiny-contest/&#34;&gt; menção honrosa &lt;/a&gt; no Shiny Contest 2020. Feito em parceira com &lt;a href = &#34;https://www.urbandemographics.org/about/&#34;&gt; Rafael Pereira&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sobre</title>
-      <link>//localhost:4321/pt-br/about/</link>
+      <link>/pt-br/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/pt-br/about/</guid>
+      <guid>/pt-br/about/</guid>
       <description>&lt;p&gt;Sou doutorando em Engenharia de Transportes pela Universidade Federal do Ceará (UFC) e assistente de Pesquisa no Instituto de Pesquisa Econômica Aplicada (IPEA). Em resumo: gosto de cidades e de dados.&lt;/p&gt;&#xA;&lt;h2 id=&#34;ipea&#34;&gt;&#xA;  IPEA&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#ipea&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link para o cabeçalho&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link para o cabeçalho&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;No Ipea faço parte do time do projeto &lt;a href=&#34;https://www.ipea.gov.br/acessooportunidades&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Acesso a Oportunidades&lt;/a&gt;. O projeto, criado pelo amigo/chefe &lt;a href=&#34;https://www.urbandemographics.org/about/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rafael Pereira&lt;/a&gt; no começo de 2019, tem como objetivo principal calcular indicadores de acessibilidade urbana para as maiores cidades brasileiras, visando subsidiar pesquisadores e formuladores de políticas públicas. No primeiro ano de projeto, eu, Rafael e parceiros publicamos o nosso primeiro &lt;a href=&#34;https://www.ipea.gov.br/acessooportunidades/publication/2019_td2535/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;relatorio anual&lt;/a&gt;, que apresenta o projeto e mostra condições de acessibilidade e desigualdades para as 20 maiores cidades brasileiras.&lt;/p&gt;</description>
     </item>
   </channel>

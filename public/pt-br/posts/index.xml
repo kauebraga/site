@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Kauê Braga</title>
-    <link>//localhost:4321/pt-br/posts/</link>
+    <link>/pt-br/posts/</link>
     <description>Recent content in Posts on Kauê Braga</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 29 Jul 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:4321/pt-br/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/pt-br/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Teste, de novo!</title>
-      <link>//localhost:4321/pt-br/posts/teste-de-novo.pt-br/</link>
+      <link>/pt-br/posts/teste-de-novo.pt-br/</link>
       <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/pt-br/posts/teste-de-novo.pt-br/</guid>
+      <guid>/pt-br/posts/teste-de-novo.pt-br/</guid>
       <description>&lt;p&gt;Pro primeiro post do blog, decidi mostrar como pegar os dados abertos da ANAC (e algo mais) e produzir gráficos e mapas interessantes sobre os padrões de deslocamento da população (especialmente em época de pandemia). Os outputs desse processo serão usados para o desenvolvimento desse app.&lt;/p&gt;&#xA;&lt;p&gt;Uma parte do código aqui mostrado também foi utilizado para produzir resultados que saíram recentemente neste paper da revista Science. Portanto, meu chefe e amigo Rafael Pereira tem grande influência no desenvolvimento e andamento do código :)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dummy</title>
-      <link>//localhost:4321/pt-br/posts/dummy/</link>
+      <link>/pt-br/posts/dummy/</link>
       <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/pt-br/posts/dummy/</guid>
+      <guid>/pt-br/posts/dummy/</guid>
       <description>&lt;p&gt;Nada para ver aqui!&lt;/p&gt;</description>
     </item>
   </channel>

@@ -1,12 +1,13 @@
 baseurl = "/"
 title = "Kauê Braga"
 
+languagecode = "en"
+defaultcontentlanguage = "en"
+DefaultContentLanguageInSubdir = false
+
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 theme = "hugo-coder"
-
-languagecode = "en"
-defaultcontentlanguage = "en"
 
 paginate = 20
 canonifyurls = true
@@ -102,12 +103,12 @@ unsafe= true
             [[languages.en.menu.main]]
             name = "About me"
             weight = 1
-            url = "/en/about/"
+            url = "about/"
 
             [[languages.en.menu.main]]
             name = "My work"
             weight = 2
-            url = "/en/experience"
+            url = "experience/"
 
             # [[languages.en.menu.main]]
             # name = "Blog"
@@ -117,12 +118,12 @@ unsafe= true
             [[languages.en.menu.main]]
             name = "Projects"
             weight = 3
-            url = "/en/projects/"
+            url = "projects/"
 
             [[languages.en.menu.main]]
             name = "Blog"
             weight = 4
-            url = "/en/posts/"
+            url = "posts/"
 			
 			
             # [[languages.en.menu.main]]

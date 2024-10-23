@@ -1,11 +1,21 @@
-[category]
-other = "categoria"
+[categories]
+one = "categoria"
+other = "categorias"
 
-[tag]
-other = "tag"
+[tags]
+one = "etiqueta"
+other = "etiquetas"
 
 [series]
+one = "séries"
 other = "séries"
+
+[authors]
+one = "autor"
+other = "autores"
+
+[posts]
+other = "artigos"
 
 [reading_time]
 one = "Um minuto de leitura"
@@ -20,41 +30,35 @@ other = "Desculpe, essa página não existe."
 [head_back]
 other = "Você pode voltar para a <a href=\"{{ . }}\">página inicial</a>."
 
+[licensed_under]
+other = "Licensed under"
+
 [powered_by]
 other = "Promovido por"
 
-[January]
-other = "Janeiro"
+[see_also]
+other = "Veja também em"
 
-[February]
-other = "Fevereiro"
+[note]
+other = "nota"
 
-[March]
-other = "Março"
+[tip]
+other = "dica"
 
-[April]
-other = "Abril"
+[example]
+other = "exemplo"
 
-[May]
-other = "Maio"
+[question]
+other = "pergunta"
 
-[June]
-other = "Junho"
+[info]
+other = "info"
 
-[July]
-other = "Julho"
+[warning]
+other = "aviso"
 
-[August]
-other = "Agosto"
+[error]
+other = "erro"
 
-[September]
-other = "Setembro"
-
-[October]
-other = "Outubro"
-
-[November]
-other = "Novembro"
-
-[December]
-other = "Dezembro"
+[link_to_heading]
+other = "Link para o cabeçalho"

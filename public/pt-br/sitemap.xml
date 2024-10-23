@@ -2,267 +2,138 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/categories/</loc>
+    <loc>//localhost:4321/pt-br/categories/</loc>
     <lastmod>2020-07-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="//localhost:4321/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="/categories/"
+                href="//localhost:4321/pt-br/categories/"
                 />
   </url><url>
-    <loc>/tags/dados-abertos/</loc>
+    <loc>//localhost:4321/pt-br/tags/dados-abertos/</loc>
     <lastmod>2020-07-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2020-07-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="/"
-                />
-  </url><url>
-    <loc>/posts/</loc>
+    <loc>//localhost:4321/pt-br/</loc>
     <lastmod>2020-07-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/posts/"
+                href="//localhost:4321/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="/posts/"
+                href="//localhost:4321/pt-br/"
                 />
   </url><url>
-    <loc>/categories/r/</loc>
-    <lastmod>2020-07-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/spatial/</loc>
-    <lastmod>2020-07-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
+    <loc>//localhost:4321/pt-br/posts/</loc>
     <lastmod>2020-07-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="//localhost:4321/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="/tags/"
+                href="//localhost:4321/pt-br/posts/"
                 />
   </url><url>
-    <loc>/posts/teste-de-novo.pt-br/</loc>
+    <loc>//localhost:4321/pt-br/categories/r/</loc>
     <lastmod>2020-07-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/series/hugo/</loc>
-    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
+    <loc>//localhost:4321/pt-br/categories/spatial/</loc>
+    <lastmod>2020-07-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/pt-br/tags/</loc>
+    <lastmod>2020-07-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/series/hugo/"
+                href="//localhost:4321/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="/series/hugo/"
+                href="//localhost:4321/pt-br/tags/"
                 />
   </url><url>
-    <loc>/series/</loc>
-    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="/series/"
-                />
+    <loc>//localhost:4321/pt-br/posts/teste-de-novo.pt-br/</loc>
+    <lastmod>2020-07-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/series/theme/</loc>
-    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/posts/twemoji-support/</loc>
-    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/posts/render-latex-using-katex/</loc>
-    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/development/</loc>
-    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/categories/development/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="/categories/development/"
-                />
-  </url><url>
-    <loc>/tags/development/</loc>
-    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/development/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="/tags/development/"
-                />
-  </url><url>
-    <loc>/tags/hugo/</loc>
-    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/posts/hugo-coder-wiki/</loc>
-    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/themes/</loc>
-    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="/tags/themes/"
-                />
-  </url><url>
-    <loc>/categories/blog/</loc>
+    <loc>//localhost:4321/pt-br/categories/blog/</loc>
     <lastmod>2018-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/dummy/</loc>
+    <loc>//localhost:4321/pt-br/posts/dummy/</loc>
     <lastmod>2018-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/i18n/</loc>
+    <loc>//localhost:4321/pt-br/tags/hugo/</loc>
+    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:4321/tags/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="//localhost:4321/pt-br/tags/hugo/"
+                />
+  </url><url>
+    <loc>//localhost:4321/pt-br/tags/i18n/</loc>
     <lastmod>2018-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/theme-demo/</loc>
-    <lastmod>2017-01-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/posts/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/series/getting-started/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>//localhost:4321/pt-br/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/series/getting-started/"
+                href="//localhost:4321/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="/series/getting-started/"
+                href="//localhost:4321/pt-br/contact/"
                 />
   </url><url>
-    <loc>/posts/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>//localhost:4321/pt-br/projects/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/go/"
+                href="//localhost:4321/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="/tags/go/"
+                href="//localhost:4321/pt-br/projects/"
                 />
   </url><url>
-    <loc>/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>//localhost:4321/pt-br/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/golang/"
+                href="//localhost:4321/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="/tags/golang/"
+                href="//localhost:4321/pt-br/series/"
                 />
   </url><url>
-    <loc>/categories/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>//localhost:4321/pt-br/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/golang/"
+                href="//localhost:4321/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="/categories/golang/"
-                />
-  </url><url>
-    <loc>/posts/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/projects/teste/</loc>
-  </url><url>
-    <loc>/consulting/</loc>
-  </url><url>
-    <loc>/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="/contact/"
-                />
-  </url><url>
-    <loc>/snippets/first/</loc>
-  </url><url>
-    <loc>/projects/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/projects/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="/projects/"
-                />
-  </url><url>
-    <loc>/snippets/second/</loc>
-  </url><url>
-    <loc>/snippets/</loc>
-  </url><url>
-    <loc>/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="/about/"
+                href="//localhost:4321/pt-br/about/"
                 />
   </url>
 </urlset>

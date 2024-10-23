@@ -2,28 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Kauê Braga</title>
-    <link>/en/series/</link>
+    <link>//localhost:4321/en/series/</link>
     <description>Recent content in Series on Kauê Braga</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>pt-br</language>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="/en/series/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:4321/en/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting Started</title>
-      <link>/en/series/getting-started/</link>
+      <link>//localhost:4321/en/series/getting-started/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/en/series/getting-started/</guid>
+      <guid>//localhost:4321/en/series/getting-started/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Hugo</title>
-      <link>/en/series/hugo/</link>
+      <link>//localhost:4321/en/series/hugo/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/en/series/hugo/</guid>
+      <guid>//localhost:4321/en/series/hugo/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

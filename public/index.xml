@@ -2,179 +2,123 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kauê Braga</title>
-    <link>/</link>
+    <link>//localhost:4321/</link>
     <description>Recent content on Kauê Braga</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>pt-br</language>
-    <lastBuildDate>Wed, 29 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Teste, de novo!</title>
-      <link>/posts/teste-de-novo.pt-br/</link>
-      <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/teste-de-novo.pt-br/</guid>
-      <description>Pro primeiro post do blog, decidi mostrar como pegar os dados abertos da ANAC (e algo mais) e produzir gráficos e mapas interessantes sobre os padrões de deslocamento da população (especialmente em época de pandemia). Os outputs desse processo serão usados para o desenvolvimento desse app.
-Uma parte do código aqui mostrado também foi utilizado para produzir resultados que saíram recentemente neste paper da revista Science. Portanto, meu chefe e amigo Rafael Pereira tem grande influência no desenvolvimento e andamento do código :)</description>
-    </item>
-    
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:4321/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Twemoji Support 🤩</title>
-      <link>/posts/twemoji-support/</link>
+      <link>//localhost:4321/posts/twemoji-support/</link>
       <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/twemoji-support/</guid>
-      <description>If you want to use Twitter&amp;rsquo;s Twemoji across your website, enable it in your config.toml
-[params] enableTwemoji = true This will not only give your website unified emojis across all platforms. It will also give you the latest Unicode 13 emoji set, such as 🧋🫕🛻🪗🪞.
-Emoji size changes with text size 🤩 Emoji size changes with text size 🤩 Emoji size changes with text size 🤩 Emoji size changes with text size 🤩 Emoji size changes with text size 🤩 Emoji size changes with text size 🤩  </description>
+      <guid>//localhost:4321/posts/twemoji-support/</guid>
+      <description>&lt;p&gt;If you want to use Twitter&amp;rsquo;s &lt;a href=&#34;https://twemoji.twitter.com/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Twemoji&lt;/a&gt; across your website, enable it in your &lt;code&gt;config.toml&lt;/code&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-toml&#34; data-lang=&#34;toml&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;[params]&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  enableTwemoji = &lt;span style=&#34;color:#fff;font-weight:bold&#34;&gt;true&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;This will not only give your website unified emojis across all platforms. It will also give you &lt;a href=&#34;https://blog.emojipedia.org/twemoji-13-0-emoji-changelog/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the latest Unicode 13 emoji set&lt;/a&gt;, such as 🧋🫕🛻🪗🪞.&lt;/p&gt;&#xA;&lt;h1 id=&#34;emoji-size-changes-with-text-size-&#34;&gt;&#xA;  Emoji size changes with text size 🤩&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#emoji-size-changes-with-text-size-&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;emoji-size-changes-with-text-size--1&#34;&gt;&#xA;  Emoji size changes with text size 🤩&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#emoji-size-changes-with-text-size--1&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;emoji-size-changes-with-text-size--2&#34;&gt;&#xA;  Emoji size changes with text size 🤩&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#emoji-size-changes-with-text-size--2&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;h4 id=&#34;emoji-size-changes-with-text-size--3&#34;&gt;&#xA;  Emoji size changes with text size 🤩&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#emoji-size-changes-with-text-size--3&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h4&gt;&#xA;&lt;h5 id=&#34;emoji-size-changes-with-text-size--4&#34;&gt;&#xA;  Emoji size changes with text size 🤩&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#emoji-size-changes-with-text-size--4&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h5&gt;&#xA;&lt;h6 id=&#34;emoji-size-changes-with-text-size--5&#34;&gt;&#xA;  Emoji size changes with text size 🤩&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#emoji-size-changes-with-text-size--5&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h6&gt;&#xA;&lt;hr&gt;</description>
     </item>
-    
     <item>
       <title>Render LaTeX using KaTeX</title>
-      <link>/posts/render-latex-using-katex/</link>
+      <link>//localhost:4321/posts/render-latex-using-katex/</link>
       <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/render-latex-using-katex/</guid>
-      <description>Enable katex by adding katex = &amp;quot;true&amp;quot; to the front matter
-+++ katex = &amp;#34;true&amp;#34; +++ If you want to enable KaTeX or MathJax for all post, add katex = ture or math = true in config.toml in [params] section.
-It&amp;rsquo;s almost a dropin alternative to the mathjax solution,you should just choose one of them.
-Inline math looks like this
-This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} =1$ This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$</description>
+      <guid>//localhost:4321/posts/render-latex-using-katex/</guid>
+      <description>&lt;p&gt;Enable katex by adding &lt;code&gt;katex = &amp;quot;true&amp;quot;&lt;/code&gt; to the &lt;a href=&#34;https://gohugo.io/content-management/front-matter/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;front matter&lt;/a&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-toml&#34; data-lang=&#34;toml&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f00&#34;&gt;+++&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;katex = &lt;span style=&#34;color:#0ff;font-weight:bold&#34;&gt;&amp;#34;true&amp;#34;&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f00&#34;&gt;+++&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;If you want to enable KaTeX or MathJax for all post, add &lt;code&gt;katex = ture&lt;/code&gt; or &lt;code&gt;math = true&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt; in &lt;code&gt;[params]&lt;/code&gt; section.&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s almost a dropin alternative to the mathjax solution,you should just choose one of them.&lt;/p&gt;&#xA;&lt;p&gt;Inline math looks like this&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;This is text with inline math &lt;span style=&#34;color:#0ff;font-weight:bold&#34;&gt;$&lt;/span&gt;\sum&lt;span style=&#34;color:#fff;font-weight:bold&#34;&gt;_{n&lt;/span&gt;=&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;1&lt;/span&gt;&lt;span style=&#34;color:#fff;font-weight:bold&#34;&gt;}^{&lt;/span&gt;\infty&lt;span style=&#34;color:#fff;font-weight:bold&#34;&gt;} &lt;/span&gt;&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;2&lt;/span&gt;&lt;span style=&#34;color:#fff;font-weight:bold&#34;&gt;^{&lt;/span&gt;-&lt;span style=&#34;color:#fff;font-weight:bold&#34;&gt;n} &lt;/span&gt;=&lt;span style=&#34;color:#fff;font-weight:bold&#34;&gt; &lt;/span&gt;&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;1&lt;/span&gt;&lt;span style=&#34;color:#0ff;font-weight:bold&#34;&gt;$&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$&lt;br&gt;&#xA;and with math blocks:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Hugo coder wiki</title>
-      <link>/posts/hugo-coder-wiki/</link>
+      <link>//localhost:4321/posts/hugo-coder-wiki/</link>
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/hugo-coder-wiki/</guid>
+      <guid>//localhost:4321/posts/hugo-coder-wiki/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>Dummy</title>
-      <link>/posts/dummy/</link>
-      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/dummy/</guid>
-      <description>Nada para ver aqui!</description>
-    </item>
-    
     <item>
       <title>Theme Demo</title>
-      <link>/posts/theme-demo/</link>
+      <link>//localhost:4321/posts/theme-demo/</link>
       <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/theme-demo/</guid>
-      <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading  This is bold text
-This is bold text
-This is italic text
-This is italic text
-Deleted text
-This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$ and with math blocks:
-$$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$
-   Heading Another heading     text text   text text   text text     Block quotes are written like so.</description>
+      <guid>//localhost:4321/posts/theme-demo/</guid>
+      <description>&lt;h2 id=&#34;style-demo&#34;&gt;&#xA;  Style Demo&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#style-demo&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;h1 id=&#34;h1-heading&#34;&gt;&#xA;  h1 Heading&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#h1-heading&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;h2-heading&#34;&gt;&#xA;  h2 Heading&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#h2-heading&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;h3-heading&#34;&gt;&#xA;  h3 Heading&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#h3-heading&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;h4 id=&#34;h4-heading&#34;&gt;&#xA;  h4 Heading&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#h4-heading&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h4&gt;&#xA;&lt;h5 id=&#34;h5-heading&#34;&gt;&#xA;  h5 Heading&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#h5-heading&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h5&gt;&#xA;&lt;h6 id=&#34;h6-heading&#34;&gt;&#xA;  h6 Heading&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#h6-heading&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h6&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;This is bold text&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Creating a New Theme</title>
-      <link>/posts/creating-a-new-theme/</link>
+      <link>//localhost:4321/posts/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+      <guid>//localhost:4321/posts/creating-a-new-theme/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;&#xA;  Introduction&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#introduction&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>(Hu)go Template Primer</title>
+      <link>//localhost:4321/posts/hugo-template-primer/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/posts/hugo-template-primer/</guid>
+      <description>&lt;p&gt;Hugo uses the excellent &lt;a href=&#34;http://golang.org/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;go&lt;/a&gt; &lt;a href=&#34;http://golang.org/pkg/html/template/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;html/template&lt;/a&gt; library for&#xA;its template engine. It is an extremely lightweight engine that provides a very&#xA;small amount of logic. In our experience that it is just the right amount of&#xA;logic to be able to create a good static website. If you have used other&#xA;template systems from different languages or frameworks you will find a lot of&#xA;similarities in go templates.&lt;/p&gt;&#xA;&lt;p&gt;This document is a brief primer on using go templates. The &lt;a href=&#34;http://golang.org/pkg/html/template/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;go docs&lt;/a&gt;&#xA;provide more details.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Getting Started with Hugo</title>
-      <link>/posts/hugoisforlovers/</link>
+      <link>//localhost:4321/posts/hugoisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/hugoisforlovers/</guid>
-      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at installing hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+      <guid>//localhost:4321/posts/hugoisforlovers/</guid>
+      <description>&lt;h2 id=&#34;step-1-install-hugo&#34;&gt;&#xA;  Step 1. Install Hugo&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#step-1-install-hugo&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Goto &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hugo releases&lt;/a&gt; and download the&#xA;appropriate version for your os and architecture.&lt;/p&gt;&#xA;&lt;p&gt;Save it somewhere specific as we will be using it in the next step.&lt;/p&gt;&#xA;&lt;p&gt;More complete instructions are available at &lt;a href=&#34;//localhost:4321/overview/installing/&#34; &gt;installing hugo&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;step-2-build-the-docs&#34;&gt;&#xA;  Step 2. Build the Docs&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#step-2-build-the-docs&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Hugo has its own example site which happens to also be the documentation site&#xA;you are reading right now.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Migrate to Hugo from Jekyll</title>
-      <link>/posts/migrate-from-jekyll/</link>
+      <link>//localhost:4321/posts/migrate-from-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/migrate-from-jekyll/</guid>
-      <description>Table of Contents  Move static content to static Create your Hugo configuration file Set your configuration publish folder to site Convert Jekyll templates to Hugo templates Convert Jekyll plugins to Hugo shortcodes  Implementation Usage   Finishing Touches  Fix Content Clean Up   A practical example in a diff  Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output.</description>
+      <guid>//localhost:4321/posts/migrate-from-jekyll/</guid>
+      <description>&lt;h1 id=&#34;table-of-contents&#34;&gt;&#xA;  Table of Contents&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#table-of-contents&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#move-static-content-to-static&#34; &gt;Move static content to &lt;code&gt;static&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#create-your-hugo-configuration-file&#34; &gt;Create your Hugo configuration file&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#set-your-configuration-publish-folder-to-site&#34; &gt;Set your configuration publish folder to &lt;code&gt;site&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#convert-jekyll-templates-to-hugo-templates&#34; &gt;Convert Jekyll templates to Hugo templates&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#convert-jekyll-plugins-to-hugo-shortcodes&#34; &gt;Convert Jekyll plugins to Hugo shortcodes&lt;/a&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#implementation&#34; &gt;Implementation&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#usage&#34; &gt;Usage&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#finishing-touches&#34; &gt;Finishing Touches&lt;/a&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#fix-content&#34; &gt;Fix Content&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#clean-up&#34; &gt;Clean Up&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#a-practical-example-in-a-diff&#34; &gt;A practical example in a diff&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;move-static-content-to-static&#34;&gt;&#xA;  Move static content to &lt;code&gt;static&lt;/code&gt;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#move-static-content-to-static&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Jekyll has a rule that any directory not starting with &lt;code&gt;_&lt;/code&gt; will be copied as-is to the &lt;code&gt;_site&lt;/code&gt; output. Hugo keeps all static content under &lt;code&gt;static&lt;/code&gt;. You should therefore move it all there.&#xA;With Jekyll, something that looked like&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>/projects/teste/</link>
+      <link>//localhost:4321/projects/teste/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/projects/teste/</guid>
+      <guid>//localhost:4321/projects/teste/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>About</title>
+      <link>//localhost:4321/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/about/</guid>
+      <description>&lt;img src=&#34;//localhost:4321/images/my_photo2.JPG&#34; width=300 style=&#34;float: right; margin-left: 30px; border: solid 2px;&#34;&gt;&#xA;&lt;p&gt;I am a enthusiastic researcher based in &lt;a href=&#34;https://pt.wikipedia.org/wiki/Fortaleza&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fortaleza, Ceara, Brazil&lt;/a&gt; that works on the intersection between sustainability, cities and data analysis. My primary expertise relates to working with transportation, demographics and land-use data, with focus on urban accessibility calculation and public transport data analysis. Over time,  I&amp;rsquo;ve expanded my scope to embrace a broader perspective on sustainability and the urban environment, like working with other fields such as waste, energy, and buildings, enjoying the opportunity to adopt a more comprehensive approach to cities challenges.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Consultoria</title>
-      <link>/consulting/</link>
+      <link>//localhost:4321/consulting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/consulting/</guid>
-      <description>Ofereço serviços de consultoria</description>
+      <guid>//localhost:4321/consulting/</guid>
+      <description>&lt;p&gt;Ofereço serviços de consultoria&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Contato</title>
-      <link>/contact/</link>
+      <title>Contact</title>
+      <link>//localhost:4321/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/contact/</guid>
-      <description>Me siga em @joaoninguem.</description>
+      <guid>//localhost:4321/contact/</guid>
+      <description>&lt;p&gt;Follow me, @johndoe.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>First snippet</title>
-      <link>/snippets/first/</link>
+      <link>//localhost:4321/snippets/first/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/snippets/first/</guid>
-      <description>This content is in snippets/first/index.md
-pwd </description>
+      <guid>//localhost:4321/snippets/first/</guid>
+      <description>&lt;p&gt;This content is in &lt;code&gt;snippets/first/index.md&lt;/code&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#fff;font-weight:bold&#34;&gt;pwd&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
-    
     <item>
-      <title>Projetos</title>
-      <link>/projects/</link>
+      <title>My work</title>
+      <link>//localhost:4321/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/projects/</guid>
-      <description>Aplicativos interativos Sistema de Transporte Público de Fortaleza (SIT-FOR) Aplicativo com as rotas das linhas de ônibus e informações gerais do SIT-FOR
-  Projeto Acesso a Oportunidades Aplicativo com resultados do projeto do IPEA Acesso a Oportunidades. Ganhou menção honrosa  no Shiny Contest 2020. Feito em parceira com Rafael Pereira
-  Tráfego aéreo de passageiros no Brasil Explore o tráfego aéreo de passageiros no Brasil com o uso de mapas e gráficos interativos</description>
+      <guid>//localhost:4321/experience/</guid>
+      <description>&lt;h2 id=&#34;c40-cities-span-stylecolor-grey-font-size-20px-margin-left-5pxaugust2022---todayspan-a-nameexperience_c40a&#34;&gt;&#xA;  C40 Cities &lt;span style=&#34;color: grey; font-size: 20px; margin-left: 5px&#34;&gt;(August/2022 - today)&lt;/span&gt; &lt;a name=&#34;experience_c40&#34;&gt;&lt;/a&gt;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#c40-cities-span-stylecolor-grey-font-size-20px-margin-left-5pxaugust2022---todayspan-a-nameexperience_c40a&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.c40.org/about-c40/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;C40 Cities&lt;/a&gt; is an organisation that provide support to a global network of mayors of the world’s leading cities to tackle climate change. While as a Research Manager at C40, my main activities include:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;&#34; &gt;Model and report air pollution, GHG and health benefits from several projects throughout the world&lt;/a&gt;. C40 supports a wide variety of climate actions across its city members, and those actions can be related to multiple fields like transportation, buildings, energy, waste. My main role is to engage with cities and other C40 teams to collect the necessary data and propose/apply methodologies to model the climate impacts and the health benefits of those actions. The main output are reports to be used by C40 and the cities to inform about the impacts and raise awareness about the climate actions. More information about our work can be found &lt;a href=&#34;https://www.c40.org/benefits-urban-climate-action/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;&#34; &gt;Provide support on tool development&lt;/a&gt;. C40 has a vast set of tools that allow users to estimate climate and health benefits from climate actions, and is currently proposing new tools to amplify its portfolio. One example is the &lt;a href=&#34;https://www.c40knowledgehub.org/s/article/Walking-and-Cycling-Benefits-Tool?language=en_US&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Walking and Cycling Benefits tool&lt;/a&gt; that evaluate the health benefits (mortality and morbidity) coming from uptake in walking and cycling from actions. Other example is the &lt;a href=&#34;https://www.c40knowledgehub.org/s/article/AQUA-Air-Quality-through-Urban-Actions-tool?language=en_US&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Air Quality through Urban Actions (AQUA) tool&lt;/a&gt;, which calculate health benefits from the reduction in air pollution concentration. I also provide support on the development of new tools, like the &lt;a href=&#34;&#34; &gt;Healthy and Active Neighboorhood Explorer&lt;/a&gt; that allows users to explore indicators related to the 15 Minute City concept at a very high level of spatial detail within the cities;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;&#34; &gt;Propose new data, methods and analysis to more efficiently calculate climate impacts&lt;/a&gt;. I&amp;rsquo;m constantly looking for new data sources and applying tools (like programming languages) that allow more accuracy, efficiency and scalability in our work. This involve, for example, using the standardization of &lt;a href=&#34;https://developers.google.com/transit/gtfs&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GTFS&lt;/a&gt; data to calculate public transport activity for multiple cities, or using household travel surveys to gain scalable insights into cities&amp;rsquo; mobility patterns, or using &lt;a href=&#34;https://www.openstreetmap.org/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenStreetMap&lt;/a&gt; and &lt;a href=&#34;https://sites.research.google/open-buildings/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Buildings&lt;/a&gt; data to evaluate cities&amp;rsquo; potential to install solar panels;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;&#34; &gt;Monitor and evaluate projects&lt;/a&gt;. I&amp;rsquo;m also involved on monitoring and evaluating large projects. This requires constantly catching up with teams and funders to make sure the project goals and KPIs are on track and well reported.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;ipea-span-stylecolor-grey-font-size-20px-margin-left-5pxmarch2019---august2022spana-nameexperience_ipeaa&#34;&gt;&#xA;  Ipea &lt;span style=&#34;color: grey; font-size: 20px; margin-left: 5px&#34;&gt;(March/2019 - August/2022)&lt;/span&gt;&lt;a name=&#34;experience_ipea&#34;&gt;&lt;/a&gt;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#ipea-span-stylecolor-grey-font-size-20px-margin-left-5pxmarch2019---august2022spana-nameexperience_ipeaa&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Data project management, data analysis, web application development, large data treatment&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Projects</title>
+      <link>//localhost:4321/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/projects/</guid>
+      <description>&lt;h2 id=&#34;interactive-webapps&#34;&gt;&#xA;  Interactive webapps&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#interactive-webapps&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;div class=&#34;w3-main w3-content w3-padding&#34; style=&#34;max-width:1200px;margin-top:30px&#34;&gt;&#xA;  &lt;!-- First Photo Grid--&gt;&#xA;  &lt;div class=&#34;w3-row-padding w3-padding-16 w3-center&#34; id=&#34;apps_galery&#34;&gt;&#xA;    &lt;div class=&#34;w3-third&#34; id = &#34;teste_hover&#34;&gt;&#xA;      &lt;a href=&#34;https://kauebraga.shinyapps.io/sitfor_linhas/&#34;&gt;&#xA;      &lt;img src=&#34;//localhost:4321/images/app_sitfor.png&#34; alt=&#34;App Sitfor&#34; style=&#34;width:100%&#34;&gt;&#xA;      &lt;div class=&#34;w3-container w3-white&#34;&gt;&#xA;      &lt;h3&gt;Fortaleza&#39;s (Brazil) Public Transport System (SIT-FOR)&lt;/h3&gt;&lt;/a&gt;&#xA;      &lt;p&gt;Shinyapp with routes, bus lines and general information about SIT-FOR&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;w3-third&#34; id = &#34;teste_hover2&#34;&gt;&#xA;      &lt;a href=&#34;https://rafa-pereira-br.shinyapps.io/accessibilityatlas/&#34;&gt;&#xA;      &lt;img src=&#34;//localhost:4321/images/app_aop.png&#34; alt=&#34;App Aop&#34; style=&#34;width:100%&#34;&gt;&#xA;      &lt;div class=&#34;w3-container w3-white&#34;&gt;&#xA;      &lt;h3&gt;Access to Oportunities Project&lt;/h3&gt;&lt;/a&gt;&#xA;      &lt;p&gt;Shinyapp  with results of IPEA&#39;s project &lt;a href = &#34;https://www.ipea.gov.br/acessooportunidades/en/&#34;&gt; Access to Oportunities&lt;/a&gt;. Won &lt;a href = &#34;https://blog.rstudio.com/2020/07/13/winners-of-the-2nd-shiny-contest/&#34;&gt; honoroble mention &lt;/a&gt; at the Shiny Contest 2020. Made in partnership &lt;a href = &#34;https://www.urbandemographics.org/about/&#34;&gt; Rafael Pereira&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Second snippet</title>
-      <link>/snippets/second/</link>
+      <link>//localhost:4321/snippets/second/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/snippets/second/</guid>
-      <description>This content is in snippets/second/index.md
-ls -la </description>
+      <guid>//localhost:4321/snippets/second/</guid>
+      <description>&lt;p&gt;This content is in &lt;code&gt;snippets/second/index.md&lt;/code&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;ls -la&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
-    
-    <item>
-      <title>Sobre</title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>Sou doutorando em Engenharia de Transportes pela Universidade Federal do Ceará (UFC) e assistente de Pesquisa no Instituto de Pesquisa Econômica Aplicada (IPEA). Em resumo: gosto de cidades e de dados.
-IPEA No Ipea faço parte do time do projeto Acesso a Oportunidades. O projeto, criado pelo amigo/chefe Rafael Pereira no começo de 2019, tem como objetivo principal calcular indicadores de acessibilidade urbana para as maiores cidades brasileiras, visando subsidiar pesquisadores e formuladores de políticas públicas.</description>
-    </item>
-    
   </channel>
 </rss>

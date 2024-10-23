@@ -2,60 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Theme on Kauê Braga</title>
-    <link>/series/theme/</link>
+    <link>//localhost:4321/series/theme/</link>
     <description>Recent content in Theme on Kauê Braga</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>pt-br</language>
-    <lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="/series/theme/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:4321/series/theme/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Twemoji Support 🤩</title>
-      <link>/posts/twemoji-support/</link>
+      <link>//localhost:4321/posts/twemoji-support/</link>
       <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/twemoji-support/</guid>
-      <description>If you want to use Twitter&amp;rsquo;s Twemoji across your website, enable it in your config.toml
-[params] enableTwemoji = true This will not only give your website unified emojis across all platforms. It will also give you the latest Unicode 13 emoji set, such as 🧋🫕🛻🪗🪞.
-Emoji size changes with text size 🤩 Emoji size changes with text size 🤩 Emoji size changes with text size 🤩 Emoji size changes with text size 🤩 Emoji size changes with text size 🤩 Emoji size changes with text size 🤩  </description>
+      <guid>//localhost:4321/posts/twemoji-support/</guid>
+      <description>&lt;p&gt;If you want to use Twitter&amp;rsquo;s &lt;a href=&#34;https://twemoji.twitter.com/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Twemoji&lt;/a&gt; across your website, enable it in your &lt;code&gt;config.toml&lt;/code&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-toml&#34; data-lang=&#34;toml&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;[params]&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  enableTwemoji = &lt;span style=&#34;color:#fff;font-weight:bold&#34;&gt;true&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;This will not only give your website unified emojis across all platforms. It will also give you &lt;a href=&#34;https://blog.emojipedia.org/twemoji-13-0-emoji-changelog/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the latest Unicode 13 emoji set&lt;/a&gt;, such as 🧋🫕🛻🪗🪞.&lt;/p&gt;&#xA;&lt;h1 id=&#34;emoji-size-changes-with-text-size-&#34;&gt;&#xA;  Emoji size changes with text size 🤩&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#emoji-size-changes-with-text-size-&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;emoji-size-changes-with-text-size--1&#34;&gt;&#xA;  Emoji size changes with text size 🤩&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#emoji-size-changes-with-text-size--1&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;emoji-size-changes-with-text-size--2&#34;&gt;&#xA;  Emoji size changes with text size 🤩&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#emoji-size-changes-with-text-size--2&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;h4 id=&#34;emoji-size-changes-with-text-size--3&#34;&gt;&#xA;  Emoji size changes with text size 🤩&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#emoji-size-changes-with-text-size--3&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h4&gt;&#xA;&lt;h5 id=&#34;emoji-size-changes-with-text-size--4&#34;&gt;&#xA;  Emoji size changes with text size 🤩&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#emoji-size-changes-with-text-size--4&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h5&gt;&#xA;&lt;h6 id=&#34;emoji-size-changes-with-text-size--5&#34;&gt;&#xA;  Emoji size changes with text size 🤩&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#emoji-size-changes-with-text-size--5&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h6&gt;&#xA;&lt;hr&gt;</description>
     </item>
-    
     <item>
       <title>Render LaTeX using KaTeX</title>
-      <link>/posts/render-latex-using-katex/</link>
+      <link>//localhost:4321/posts/render-latex-using-katex/</link>
       <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/render-latex-using-katex/</guid>
-      <description>Enable katex by adding katex = &amp;quot;true&amp;quot; to the front matter
-+++ katex = &amp;#34;true&amp;#34; +++ If you want to enable KaTeX or MathJax for all post, add katex = ture or math = true in config.toml in [params] section.
-It&amp;rsquo;s almost a dropin alternative to the mathjax solution,you should just choose one of them.
-Inline math looks like this
-This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} =1$ This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$</description>
+      <guid>//localhost:4321/posts/render-latex-using-katex/</guid>
+      <description>&lt;p&gt;Enable katex by adding &lt;code&gt;katex = &amp;quot;true&amp;quot;&lt;/code&gt; to the &lt;a href=&#34;https://gohugo.io/content-management/front-matter/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;front matter&lt;/a&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-toml&#34; data-lang=&#34;toml&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f00&#34;&gt;+++&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;katex = &lt;span style=&#34;color:#0ff;font-weight:bold&#34;&gt;&amp;#34;true&amp;#34;&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f00&#34;&gt;+++&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;If you want to enable KaTeX or MathJax for all post, add &lt;code&gt;katex = ture&lt;/code&gt; or &lt;code&gt;math = true&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt; in &lt;code&gt;[params]&lt;/code&gt; section.&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s almost a dropin alternative to the mathjax solution,you should just choose one of them.&lt;/p&gt;&#xA;&lt;p&gt;Inline math looks like this&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;This is text with inline math &lt;span style=&#34;color:#0ff;font-weight:bold&#34;&gt;$&lt;/span&gt;\sum&lt;span style=&#34;color:#fff;font-weight:bold&#34;&gt;_{n&lt;/span&gt;=&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;1&lt;/span&gt;&lt;span style=&#34;color:#fff;font-weight:bold&#34;&gt;}^{&lt;/span&gt;\infty&lt;span style=&#34;color:#fff;font-weight:bold&#34;&gt;} &lt;/span&gt;&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;2&lt;/span&gt;&lt;span style=&#34;color:#fff;font-weight:bold&#34;&gt;^{&lt;/span&gt;-&lt;span style=&#34;color:#fff;font-weight:bold&#34;&gt;n} &lt;/span&gt;=&lt;span style=&#34;color:#fff;font-weight:bold&#34;&gt; &lt;/span&gt;&lt;span style=&#34;color:#ff0;font-weight:bold&#34;&gt;1&lt;/span&gt;&lt;span style=&#34;color:#0ff;font-weight:bold&#34;&gt;$&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$&lt;br&gt;&#xA;and with math blocks:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Theme Demo</title>
-      <link>/posts/theme-demo/</link>
+      <link>//localhost:4321/posts/theme-demo/</link>
       <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/theme-demo/</guid>
-      <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading  This is bold text
-This is bold text
-This is italic text
-This is italic text
-Deleted text
-This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$ and with math blocks:
-$$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$
-   Heading Another heading     text text   text text   text text     Block quotes are written like so.</description>
+      <guid>//localhost:4321/posts/theme-demo/</guid>
+      <description>&lt;h2 id=&#34;style-demo&#34;&gt;&#xA;  Style Demo&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#style-demo&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;h1 id=&#34;h1-heading&#34;&gt;&#xA;  h1 Heading&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#h1-heading&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;h2-heading&#34;&gt;&#xA;  h2 Heading&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#h2-heading&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;h3-heading&#34;&gt;&#xA;  h3 Heading&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#h3-heading&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;h4 id=&#34;h4-heading&#34;&gt;&#xA;  h4 Heading&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#h4-heading&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h4&gt;&#xA;&lt;h5 id=&#34;h5-heading&#34;&gt;&#xA;  h5 Heading&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#h5-heading&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h5&gt;&#xA;&lt;h6 id=&#34;h6-heading&#34;&gt;&#xA;  h6 Heading&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#h6-heading&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h6&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;This is bold text&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Creating a New Theme</title>
-      <link>/posts/creating-a-new-theme/</link>
+      <link>//localhost:4321/posts/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+      <guid>//localhost:4321/posts/creating-a-new-theme/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;&#xA;  Introduction&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#introduction&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

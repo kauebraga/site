@@ -2,55 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Kauê Braga</title>
-    <link>/en/tags/</link>
+    <link>//localhost:4321/en/tags/</link>
     <description>Recent content in Tags on Kauê Braga</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>pt-br</language>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:4321/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>development</title>
-      <link>/en/tags/development/</link>
+      <title>Development</title>
+      <link>//localhost:4321/en/tags/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/en/tags/development/</guid>
+      <guid>//localhost:4321/en/tags/development/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>go</title>
-      <link>/en/tags/go/</link>
+      <title>Go</title>
+      <link>//localhost:4321/en/tags/go/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/en/tags/go/</guid>
+      <guid>//localhost:4321/en/tags/go/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>golang</title>
-      <link>/en/tags/golang/</link>
+      <title>Golang</title>
+      <link>//localhost:4321/en/tags/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/en/tags/golang/</guid>
+      <guid>//localhost:4321/en/tags/golang/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>templates</title>
-      <link>/en/tags/templates/</link>
+      <title>Templates</title>
+      <link>//localhost:4321/en/tags/templates/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/en/tags/templates/</guid>
+      <guid>//localhost:4321/en/tags/templates/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>themes</title>
-      <link>/en/tags/themes/</link>
+      <title>Themes</title>
+      <link>//localhost:4321/en/tags/themes/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/en/tags/themes/</guid>
+      <guid>//localhost:4321/en/tags/themes/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

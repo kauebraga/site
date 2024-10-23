@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Kauê Braga</title>
+    <link>//localhost:4321/pt-br/categories/</link>
+    <description>Recent content in Categories on Kauê Braga</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 29 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:4321/pt-br/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>R</title>
+      <link>//localhost:4321/pt-br/categories/r/</link>
+      <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/pt-br/categories/r/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spatial</title>
+      <link>//localhost:4321/pt-br/categories/spatial/</link>
+      <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/pt-br/categories/spatial/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blog</title>
+      <link>//localhost:4321/pt-br/categories/blog/</link>
+      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/pt-br/categories/blog/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -2,51 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kauê Braga</title>
-    <link>/en/</link>
+    <link>//localhost:4321/en/</link>
     <description>Recent content on Kauê Braga</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>pt-br</language>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:4321/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>(Hu)go Template Primer</title>
-      <link>/en/posts/hugo-template-primer/</link>
+      <link>//localhost:4321/en/posts/hugo-template-primer/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/en/posts/hugo-template-primer/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
-This document is a brief primer on using go templates.</description>
+      <guid>//localhost:4321/en/posts/hugo-template-primer/</guid>
+      <description>&lt;p&gt;Hugo uses the excellent &lt;a href=&#34;http://golang.org/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;go&lt;/a&gt; &lt;a href=&#34;http://golang.org/pkg/html/template/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;html/template&lt;/a&gt; library for&#xA;its template engine. It is an extremely lightweight engine that provides a very&#xA;small amount of logic. In our experience that it is just the right amount of&#xA;logic to be able to create a good static website. If you have used other&#xA;template systems from different languages or frameworks you will find a lot of&#xA;similarities in go templates.&lt;/p&gt;&#xA;&lt;p&gt;This document is a brief primer on using go templates. The &lt;a href=&#34;http://golang.org/pkg/html/template/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;go docs&lt;/a&gt;&#xA;provide more details.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>About</title>
-      <link>/en/about/</link>
+      <link>//localhost:4321/en/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/en/about/</guid>
-      <description>I am a PhD candidate in Transportation Engineering at the Federal University of Ceará (UFC) and research assistant at the Institute for Applied Economic Research (IPEA). In short: I am passionate about cities and data.
-IPEA At Ipea I am part of the Access to Opportunities team. The project, created by my friend/boss Rafael Pereira at the beginning of 2019, has as main objective to calculate indicators of urban accessibility for the biggest Brazilian cities, aiming to subsidize researchers and public policy makers.</description>
+      <guid>//localhost:4321/en/about/</guid>
+      <description>&lt;img src=&#34;//localhost:4321/images/my_photo2.JPG&#34; width=300 style=&#34;float: right; margin-left: 30px; border: solid 2px;&#34;&gt;&#xA;&lt;p&gt;I am a enthusiastic researcher based in &lt;a href=&#34;https://pt.wikipedia.org/wiki/Fortaleza&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fortaleza, Ceara, Brazil&lt;/a&gt; that works on the intersection between sustainability, cities and data analysis. My primary expertise relates to working with transportation, demographics and land-use data, with focus on urban accessibility calculation and public transport data analysis. Over time,  I&amp;rsquo;ve expanded my scope to embrace a broader perspective on sustainability and the urban environment, like working with other fields such as waste, energy, and buildings, enjoying the opportunity to adopt a more comprehensive approach to cities challenges.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Contact</title>
-      <link>/en/contact/</link>
+      <link>//localhost:4321/en/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/en/contact/</guid>
-      <description>Follow me, @johndoe.</description>
+      <guid>//localhost:4321/en/contact/</guid>
+      <description>&lt;p&gt;Follow me, @johndoe.&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>My work</title>
+      <link>//localhost:4321/en/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/en/experience/</guid>
+      <description>&lt;h2 id=&#34;c40-cities-span-stylecolor-grey-font-size-20px-margin-left-5pxaugust2022---todayspan-a-nameexperience_c40a&#34;&gt;&#xA;  C40 Cities &lt;span style=&#34;color: grey; font-size: 20px; margin-left: 5px&#34;&gt;(August/2022 - today)&lt;/span&gt; &lt;a name=&#34;experience_c40&#34;&gt;&lt;/a&gt;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#c40-cities-span-stylecolor-grey-font-size-20px-margin-left-5pxaugust2022---todayspan-a-nameexperience_c40a&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.c40.org/about-c40/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;C40 Cities&lt;/a&gt; is an organisation that provide support to a global network of mayors of the world’s leading cities to tackle climate change. While as a Research Manager at C40, my main activities include:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;&#34; &gt;Model and report air pollution, GHG and health benefits from several projects throughout the world&lt;/a&gt;. C40 supports a wide variety of climate actions across its city members, and those actions can be related to multiple fields like transportation, buildings, energy, waste. My main role is to engage with cities and other C40 teams to collect the necessary data and propose/apply methodologies to model the climate impacts and the health benefits of those actions. The main output are reports to be used by C40 and the cities to inform about the impacts and raise awareness about the climate actions. More information about our work can be found &lt;a href=&#34;https://www.c40.org/benefits-urban-climate-action/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;&#34; &gt;Provide support on tool development&lt;/a&gt;. C40 has a vast set of tools that allow users to estimate climate and health benefits from climate actions, and is currently proposing new tools to amplify its portfolio. One example is the &lt;a href=&#34;https://www.c40knowledgehub.org/s/article/Walking-and-Cycling-Benefits-Tool?language=en_US&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Walking and Cycling Benefits tool&lt;/a&gt; that evaluate the health benefits (mortality and morbidity) coming from uptake in walking and cycling from actions. Other example is the &lt;a href=&#34;https://www.c40knowledgehub.org/s/article/AQUA-Air-Quality-through-Urban-Actions-tool?language=en_US&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Air Quality through Urban Actions (AQUA) tool&lt;/a&gt;, which calculate health benefits from the reduction in air pollution concentration. I also provide support on the development of new tools, like the &lt;a href=&#34;&#34; &gt;Healthy and Active Neighboorhood Explorer&lt;/a&gt; that allows users to explore indicators related to the 15 Minute City concept at a very high level of spatial detail within the cities;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;&#34; &gt;Propose new data, methods and analysis to more efficiently calculate climate impacts&lt;/a&gt;. I&amp;rsquo;m constantly looking for new data sources and applying tools (like programming languages) that allow more accuracy, efficiency and scalability in our work. This involve, for example, using the standardization of &lt;a href=&#34;https://developers.google.com/transit/gtfs&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GTFS&lt;/a&gt; data to calculate public transport activity for multiple cities, or using household travel surveys to gain scalable insights into cities&amp;rsquo; mobility patterns, or using &lt;a href=&#34;https://www.openstreetmap.org/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenStreetMap&lt;/a&gt; and &lt;a href=&#34;https://sites.research.google/open-buildings/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Buildings&lt;/a&gt; data to evaluate cities&amp;rsquo; potential to install solar panels;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;&#34; &gt;Monitor and evaluate projects&lt;/a&gt;. I&amp;rsquo;m also involved on monitoring and evaluating large projects. This requires constantly catching up with teams and funders to make sure the project goals and KPIs are on track and well reported.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;ipea-span-stylecolor-grey-font-size-20px-margin-left-5pxmarch2019---august2022spana-nameexperience_ipeaa&#34;&gt;&#xA;  Ipea &lt;span style=&#34;color: grey; font-size: 20px; margin-left: 5px&#34;&gt;(March/2019 - August/2022)&lt;/span&gt;&lt;a name=&#34;experience_ipea&#34;&gt;&lt;/a&gt;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#ipea-span-stylecolor-grey-font-size-20px-margin-left-5pxmarch2019---august2022spana-nameexperience_ipeaa&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Data project management, data analysis, web application development, large data treatment&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Projects</title>
-      <link>/en/projects/</link>
+      <link>//localhost:4321/en/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/en/projects/</guid>
-      <description>Interactive webapps Fortaleza&#39;s (Brazil) Public Transport System (SIT-FOR) Shinyapp with routes, bus lines and general information about SIT-FOR
-  Access to Oportunities Project Shinyapp with results of IPEA&#39;s project Access to Oportunities. Won honoroble mention  at the Shiny Contest 2020. Made in partnership Rafael Pereira
-  Air passenger flow Explore Brazil&#39;s passenger air traffic using interactive maps and graphics
-   COVID-19 Vaccination: Brazil Explore Brazil&#39;s COVID-19 vaccination progress</description>
+      <guid>//localhost:4321/en/projects/</guid>
+      <description>&lt;h2 id=&#34;interactive-webapps&#34;&gt;&#xA;  Interactive webapps&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#interactive-webapps&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;div class=&#34;w3-main w3-content w3-padding&#34; style=&#34;max-width:1200px;margin-top:30px&#34;&gt;&#xA;  &lt;!-- First Photo Grid--&gt;&#xA;  &lt;div class=&#34;w3-row-padding w3-padding-16 w3-center&#34; id=&#34;apps_galery&#34;&gt;&#xA;    &lt;div class=&#34;w3-third&#34; id = &#34;teste_hover&#34;&gt;&#xA;      &lt;a href=&#34;https://kauebraga.shinyapps.io/sitfor_linhas/&#34;&gt;&#xA;      &lt;img src=&#34;//localhost:4321/images/app_sitfor.png&#34; alt=&#34;App Sitfor&#34; style=&#34;width:100%&#34;&gt;&#xA;      &lt;div class=&#34;w3-container w3-white&#34;&gt;&#xA;      &lt;h3&gt;Fortaleza&#39;s (Brazil) Public Transport System (SIT-FOR)&lt;/h3&gt;&lt;/a&gt;&#xA;      &lt;p&gt;Shinyapp with routes, bus lines and general information about SIT-FOR&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;w3-third&#34; id = &#34;teste_hover2&#34;&gt;&#xA;      &lt;a href=&#34;https://rafa-pereira-br.shinyapps.io/accessibilityatlas/&#34;&gt;&#xA;      &lt;img src=&#34;//localhost:4321/images/app_aop.png&#34; alt=&#34;App Aop&#34; style=&#34;width:100%&#34;&gt;&#xA;      &lt;div class=&#34;w3-container w3-white&#34;&gt;&#xA;      &lt;h3&gt;Access to Oportunities Project&lt;/h3&gt;&lt;/a&gt;&#xA;      &lt;p&gt;Shinyapp  with results of IPEA&#39;s project &lt;a href = &#34;https://www.ipea.gov.br/acessooportunidades/en/&#34;&gt; Access to Oportunities&lt;/a&gt;. Won &lt;a href = &#34;https://blog.rstudio.com/2020/07/13/winners-of-the-2nd-shiny-contest/&#34;&gt; honoroble mention &lt;/a&gt; at the Shiny Contest 2020. Made in partnership &lt;a href = &#34;https://www.urbandemographics.org/about/&#34;&gt; Rafael Pereira&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

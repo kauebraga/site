@@ -3,23 +3,23 @@ title = "About"
 slug = "about"
 +++
 
-I am a PhD candidate in Transportation Engineering at the Federal University of Ceará (UFC) and research assistant at the Institute for Applied Economic Research (IPEA). In short: I am passionate about cities and data.
+<img src="/images/my_photo2.JPG" width=300 style="float: right; margin-left: 30px; border: solid 2px;">
 
-## IPEA
+I am a enthusiastic researcher based in [Fortaleza, Ceara, Brazil](https://pt.wikipedia.org/wiki/Fortaleza) that works on the intersection between sustainability, cities and data analysis. My primary expertise relates to working with transportation, demographics and land-use data, with focus on urban accessibility calculation and public transport data analysis. Over time,  I've expanded my scope to embrace a broader perspective on sustainability and the urban environment, like working with other fields such as waste, energy, and buildings, enjoying the opportunity to adopt a more comprehensive approach to cities challenges.
 
-At Ipea I am part of the [Access to Opportunities](https://www.ipea.gov.br/acessooportunidades/en/) team. The project, created by my friend/boss [Rafael Pereira](https://www.urbandemographics.org/about/) at the beginning of 2019, has as main objective to calculate indicators of urban accessibility for the biggest Brazilian cities, aiming to subsidize researchers and public policy makers. In the first year of the project, Rafael, I and partners published our first [annual report](https://www.ipea.gov.br/acessooportunidades/publication/2019_td2535/)[PT_BR], which introduces the project and shows accessibility conditions and inequalities for the 20 largest Brazilian cities.
-
-In the second year of the project, with a [bigger and very competent team](https://www.ipea.gov.br/acessooportunidades/en/equipe/), we developed R packages like [r5r](https://github.com/ipeaGIT/r5r) and published a [study](https://www.sciencedirect.com/science/article/pii/S0277953621001052?dgcid=coauthor) that  proposes a new accessibility indicator that incorporates competition for opportunities. Also, under Rafael's leadership, I was part of publications that analyzed the [evolution of propagation of coronavirus in Brazil](https://science.sciencemag.org/content/369/6508/1255.abstract) and that evaluated [socio-spatial inequalities on risks of hospitalization and death from COVID-19](https://gh.bmj.com/content/bmjgh/6/4/e004959.full.pdf?with-ds=yes).
+At the moment, my time is divided between my [Research Manager role at C40 Cities](/en/experience/#experience_c40) and my [PhD in Transportation Engineering](/en/experience/#experience_academic) at the Federal University of Ceará (UFC, Brazil). Previously I have worked as an [assistant researcher at the The Institute for Applied Economic Research](/en/experience/#experience_ipea) (Brazil) and have [consulted for non-profits and the public sector](/en/experience/#experience_consulting).
 
 
-## Academic research
-
-My work is at the intersection of transport and data analysis. In particular, my interest is in the estimation of **urban accessibility**, developing and applying methods to improve its estimation and accuracy.
-For this, I developed and applied in my master's a method that uses GPS data to correct timetables from [GTFS](https://developers.google.com/transit/gtfs), which contains the scheduled public transport service.
-You can access my dissertation [here](https://thesiscommons.org/92yxw/)[PT_BR] and the article published at Transportes [here](https://www.revistatransportes.org.br/anpet/article/view/2175/862) [PT_BR].
-
-## Consulting and side projects
-
-I provide data analysis consultancy. I highlight my work with the [Institute for Transportation & Development Policy](https://www.itdp.org/) (ITDP), calculating accessibility indicators from GTFS and location data of the public transport fleet.
-
-Also, when I have some time to spare, I also venture into some personal projects, especially interactive apps using [shiny](https://shiny.rstudio.com/). These works can be consulted on the [projects](/projects) tab.
+<!---
+  <div class="accordion" id="accordionExample">
+  <div class="accordion-item">
+    <h1 class="accordion-header" id="headingOne">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+        My Experience
+      </button>
+    </h1>
+    <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+      
+      --->
+      

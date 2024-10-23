@@ -5,8 +5,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 theme = "hugo-coder"
 
-languagecode = "pt-br"
-defaultcontentlanguage = "pt-br"
+languagecode = "en"
+defaultcontentlanguage = "en"
 
 paginate = 20
 canonifyurls = true
@@ -24,7 +24,7 @@ unsafe= true
     author = "Kauê Braga"
     description = "My personal website"
     keywords = "blog,developer,personal"
-    info = "Cities • Data • Graphics • Maps • R"
+    info = "Cities • Data • Transport • R"
     avatarurl = "images/my_photo.jpg"
     #gravatar = "john.doe@example.com"
     # footercontent = "Cientista de dados buscando trabalhos de consultoria"
@@ -100,9 +100,14 @@ unsafe= true
         [languages.en.menu]
 
             [[languages.en.menu.main]]
-            name = "About"
+            name = "About me"
             weight = 1
             url = "/en/about/"
+
+            [[languages.en.menu.main]]
+            name = "My work"
+            weight = 2
+            url = "/en/experience"
 
             # [[languages.en.menu.main]]
             # name = "Blog"
@@ -113,6 +118,11 @@ unsafe= true
             name = "Projects"
             weight = 3
             url = "/en/projects/"
+
+            [[languages.en.menu.main]]
+            name = "Blog"
+            weight = 4
+            url = "/en/posts/"
 			
 			
             # [[languages.en.menu.main]]
@@ -121,10 +131,10 @@ unsafe= true
             # url = "/en/publications/"
 			
 
-            # [[languages.en.menu.main]]
-            # name = "Consulting"
-            # weight = 5
-            # url = "consulting/"
+            #[[languages.en.menu.main]]
+            #name = "Consulting"
+            #weight = 5
+            #url = "consulting/"
 
             # [[languages.en.menu.main]]
             # name = "Contact me"
@@ -155,11 +165,24 @@ unsafe= true
             # name = "Blog"
             # weight = 2
             # url = "posts/"
+            
+            
+            [[languages.pt-br.menu.main]]
+            name = "Meu trabalho"
+            weight = 2
+            url = "my_work/"
+
 
             [[languages.pt-br.menu.main]]
             name = "Projetos"
             weight = 3
             url = "projects/"
+            
+            
+            [[languages.pt-br.menu.main]]
+            name = "Blog"
+            weight = 4
+            url = "posts/"
             
             # [[languages.pt-br.menu.main]]
             # name = "Teste"

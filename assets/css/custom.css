@@ -1,9 +1,50 @@
+        .accordion {
+            cursor: pointer;
+            padding: 10px;
+            border: 0px solid #ccc;
+            margin-bottom: 5px;
+            background-color: transparent;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 24px;
+            border-bottom: 1px solid #d3d3d3; /* Grey horizontal line */
+        }
+        
+        .accordion span {
+            flex-grow: 1;
+        }
+
+        .accordion::after {
+            content: '\2304'; /* Unicode character for down arrow */
+            font-size: 1em;
+            transition: transform 0.3s ease;
+        }
+
+        .accordion.active::after {
+            transform: rotate(-180deg); /* Rotate the arrow when active */
+        }
+
+        .accordion-content {
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.5s ease;
+            padding: 0 10px;
+            border: 0px solid #ccc;
+            border-top: none;
+            background-color: transparent;
+        }
+
+        .accordion-content.show {
+            max-height: 200px; /* You can adjust this value to fit your content */
+        }
+
+
 .container {
-    margin: 0 auto;
-    max-width: 1200px;
+    max-width: 1000px;
     width: 100%;
-    padding-left: 2rem;
-    padding-right: 2rem;
+    padding-left: 5rem;
+    padding-right: 5rem;
 }
 
 #apps_galery h3 {
@@ -35,7 +76,7 @@
 
 @media (min-width: 601px) {
     .w3-col.m6, .w3-half {
-    width: 42.99999% !important;
+    width: 47.99999% !important;
 }
 }
 
@@ -794,7 +835,7 @@ a{
     border-radius:32px
 }
  .w3-row-padding,.w3-row-padding>.w3-half,.w3-row-padding>.w3-third,.w3-row-padding>.w3-twothird,.w3-row-padding>.w3-threequarter,.w3-row-padding>.w3-quarter,.w3-row-padding>.w3-col{
-    padding:0 8px
+    padding:5px 8px
 }
  .w3-container,.w3-panel{
     padding:0.01em 16px

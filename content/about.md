@@ -7,7 +7,7 @@ slug = "about"
 
 I am a enthusiastic researcher based in [Fortaleza, Ceara, Brazil](https://pt.wikipedia.org/wiki/Fortaleza) that works on the intersection between sustainability, cities and data analysis. My primary expertise relates to working with transportation, demographics and land-use data, with focus on urban accessibility calculation and public transport data analysis. Over time,  I've expanded my scope to embrace a broader perspective on sustainability and the urban environment, like working with other fields such as waste, energy, and buildings, enjoying the opportunity to adopt a more comprehensive approach to cities challenges.
 
-At the moment, my time is divided between my [Research Manager role at C40 Cities](/en/experience/#experience_c40) and my [PhD in Transportation Engineering](/en/experience/#experience_academic) at the Federal University of Ceará (UFC, Brazil). Previously I have worked as an [assistant researcher at the The Institute for Applied Economic Research](/en/experience/#experience_ipea) (Brazil) and have [consulted for non-profits and the public sector](/en/experience/#experience_consulting).
+At the moment, my time is divided between my [Research Manager role at C40 Cities](/experience/#experience_c40) and my [PhD in Transportation Engineering](/experience/#experience_academic) at the Federal University of Ceará (UFC, Brazil). Previously I have worked as an [assistant researcher at the The Institute for Applied Economic Research](/experience/#experience_ipea) (Brazil) and have [consulted for non-profits and the public sector](/experience/#experience_consulting).
 
 
 <!---

@@ -56,10 +56,10 @@ unsafe= true
     enableTwemoji = true
 
     # Custom CSS
-    custom_css = ["custom.css"]
+    customCSS = ["css/custom.css"]
 
     # Custom JS
-    custom_js = []
+    customJS = ["js/accordion.js"]
 
 # If you want to use fathom(https://usefathom.com) for analytics, add this section
 [params.fathomAnalytics]
@@ -120,22 +120,16 @@ unsafe= true
             weight = 3
             url = "projects/"
 
-            [[languages.en.menu.main]]
-            name = "Blog"
-            weight = 4
-            url = "posts/"
-			
-			
             # [[languages.en.menu.main]]
             # name = "Publications"
             # weight = 4
             # url = "/en/publications/"
 			
 
-            #[[languages.en.menu.main]]
-            #name = "Consulting"
-            #weight = 5
-            #url = "consulting/"
+            [[languages.en.menu.main]]
+            name = "Consulting"
+            weight = 5
+            url = "consulting/"
 
             # [[languages.en.menu.main]]
             # name = "Contact me"

@@ -3,16 +3,51 @@ title = "My work"
 slug = "experience"
 +++
 
-## C40 Cities <span style="color: grey; font-size: 20px; margin-left: 5px">(August/2022 - today)</span> <a name="experience_c40"></a>
 
-[C40 Cities](https://www.c40.org/about-c40/) is an organisation that provide support to a global network of mayors of the world’s leading cities to tackle climate change. While as a Research Manager at C40, my main activities include:
+Currently I divide my time between my consulting work and my PhD in Transportation Engineering.
 
-- [Model and report air pollution, GHG and health benefits from several projects throughout the world](). C40 supports a wide variety of climate actions across its city members, and those actions can be related to multiple fields like transportation, buildings, energy, waste. My main role is to engage with cities and other C40 teams to collect the necessary data and propose/apply methodologies to model the climate impacts and the health benefits of those actions. The main output are reports to be used by C40 and the cities to inform about the impacts and raise awareness about the climate actions. More information about our work can be found [here](https://www.c40.org/benefits-urban-climate-action/).
-- [Provide support on tool development](). C40 has a vast set of tools that allow users to estimate climate and health benefits from climate actions, and is currently proposing new tools to amplify its portfolio. One example is the [Walking and Cycling Benefits tool](https://www.c40knowledgehub.org/s/article/Walking-and-Cycling-Benefits-Tool?language=en_US) that evaluate the health benefits (mortality and morbidity) coming from uptake in walking and cycling from actions. Other example is the [Air Quality through Urban Actions (AQUA) tool](https://www.c40knowledgehub.org/s/article/AQUA-Air-Quality-through-Urban-Actions-tool?language=en_US), which calculate health benefits from the reduction in air pollution concentration. I also provide support on the development of new tools, like the [Healthy and Active Neighboorhood Explorer]() that allows users to explore indicators related to the 15 Minute City concept at a very high level of spatial detail within the cities;  
-- [Propose new data, methods and analysis to more efficiently calculate climate impacts](). I'm constantly looking for new data sources and applying tools (like programming languages) that allow more accuracy, efficiency and scalability in our work. This involve, for example, using the standardization of [GTFS](https://developers.google.com/transit/gtfs) data to calculate public transport activity for multiple cities, or using household travel surveys to gain scalable insights into cities' mobility patterns, or using [OpenStreetMap](https://www.openstreetmap.org/) and [Open Buildings](https://sites.research.google/open-buildings/) data to evaluate cities' potential to install solar panels; 
-- [Monitor and evaluate projects](). I'm also involved on monitoring and evaluating large projects. This requires constantly catching up with teams and funders to make sure the project goals and KPIs are on track and well reported. 
+<h1 style="font-weight:800">Present</h1>
 
-## Ipea <span style="color: grey; font-size: 20px; margin-left: 5px">(March/2019 - August/2022)</span><a name="experience_ipea"></a>
+<h2 id="experience_c40" class="accordion" ><span>C40 Cities <span style="color: grey; font-size: 20px; margin-left: 5px">(August/2022 - today)</span> <a name="experience_c40"></a></span></h2>
+<div class="accordion-content">
+
+
+[C40 Cities](https://www.c40.org/about-c40/) is an organisation that provides support to a global network of mayors of the world’s leading cities to tackle climate change. While as a Research Manager at C40, my main activities include:
+
+- **Model and report air pollution, GHG and health benefits from several projects throughout the world**. C40 supports a wide variety of climate actions across its city members, and those actions can be related to multiple fields like transportation, buildings, energy, waste. My main role is to engage with cities and other C40 teams to collect the necessary data and propose/apply methodologies to model the climate impacts and the health benefits of those actions. The main output are reports to be used by C40 and the cities to inform about the impacts and raise awareness about the climate actions. More information about our work can be found [here](https://www.c40.org/benefits-urban-climate-action/).
+- **Provide support on tool development**. C40 has a vast set of tools that allow users to estimate climate and health benefits from climate actions, and is currently proposing new tools to amplify its portfolio. One example is the [Walking and Cycling Benefits tool](https://www.c40knowledgehub.org/s/article/Walking-and-Cycling-Benefits-Tool?language=en_US) that evaluate the health benefits (mortality and morbidity) coming from uptake in walking and cycling from actions. Other example is the [Air Quality through Urban Actions (AQUA) tool](https://www.c40knowledgehub.org/s/article/AQUA-Air-Quality-through-Urban-Actions-tool?language=en_US), which calculate health benefits from the reduction in air pollution concentration. I also provide support on the development of new tools, like the [Healthy and Active Neighboorhood Explorer]() that allows users to explore indicators related to the 15 Minute City concept at a very high level of spatial detail within the cities;  
+- **Propose new data, methods and analysis to more efficiently calculate climate impacts**. I'm constantly looking for new data sources and applying tools (like programming languages) that allow more accuracy, efficiency and scalability in our work. This involve, for example, using the standardization of [GTFS](https://developers.google.com/transit/gtfs) data to calculate public transport activity for multiple cities, or using household travel surveys to gain scalable insights into cities' mobility patterns, or using [OpenStreetMap](https://www.openstreetmap.org/) and [Open Buildings](https://sites.research.google/open-buildings/) data to evaluate cities' potential to install solar panels; 
+- **Monitor and evaluate projects**. I'm also involved on monitoring and evaluating large projects. This requires constantly catching up with teams and funders to make sure the project goals and KPIs are on track and well reported. 
+
+</div>
+
+<h2 id="experience_consulting"  class="accordion" ><span>Consulting and side projects<span style="color: grey; font-size: 20px; margin-left: 5px">(2020 - today)</span><a name="experience_consulting"></a></h2>
+
+<div class="accordion-content">
+
+I’ve been working as a freelancer on several projects. I’ve been collaborating with [ITDP Brazil](https://itdpbrasil.org/) (Institute for Transportation and Development Policy) on projects where I calculated accessibility indicators to impact public policy. I also co-coordinated a project at ITDP where we evaluated the impact of policies (such as the construction of new bus corridors) on both emissions and accessibility. I also worked with Rio de Janeiro’s Transportation Department
+(SMTR), where I created and ministered a [course on how to use bus GPS data to create and calculate meaningful public transport indicators](https://github.com/kauebraga/curso_r_transportes). Still with SMTR, I developed a [project](https://github.com/kauebraga/smtr_malha_cicloviaria) where I used bike sharing data to explore travel patterns and identify possible voids of bike infrastructure - that aimed to help the city on their new cycling plan. Lastly, I have consulted for [Transitar Consulting](https://www.transitarconsultoria.com/) on some projects regarding public transport data, and we are working on a project to develop [ITDP](https://www.itdp.org/)’s global platform to visualize, compare and download data. This project evolves talking to people all over the world to identify their priorities when visualizing transportation data, to finally develop the application.
+
+Also, when I have some time to spare, I also venture into some personal projects, especially interactive apps using [shiny](https://shiny.rstudio.com/). These works can be consulted on the [projects](/projects) tab.
+
+</div>
+
+
+<h2  id="experience_academic" class="accordion" ><span>Academic research <span style="color: grey; font-size: 20px; margin-left: 5px">(2017 - today)</span><a name="experience_academic"></a></h2>
+
+<div class="accordion-content">
+
+My work is at the intersection of transport and data analysis. In particular, my interest is in the estimation of **urban accessibility**, developing and applying methods to improve its estimation and accuracy.
+For this, I developed and applied in my master's a method that uses GPS data to correct timetables from [GTFS](https://developers.google.com/transit/gtfs), which contains the scheduled public transport service. On my ongoing PhD, I'm now more focused on how the usage of public transport data on accessibility calculations can impact both equity and policy evaluations. I have already published a [first article](https://www.sciencedirect.com/science/article/pii/S0966692323000625) showcasing how equity evaluations may be sensitive to your data choice while calculating travel times for accessibility.
+
+</div>
+
+
+<h1 style="font-weight:800">Past experience</h1>
+
+<h2  id="experience_ipea" class="accordion" ><span>IPEA <span style="color: grey; font-size: 20px; margin-left: 5px">(March/2019 - August/2022)</span><a name="experience_ipea"></a></h2>
+
+<div class="accordion-content">
 
 Data project management, data analysis, web application development, large data treatment
 
@@ -26,21 +61,13 @@ From the second year on, with a [bigger and very competent team](https://www.ipe
 
 >You can also find out more on the [project website](https://www.ipea.gov.br/acessooportunidades/en/). If you are interested on the project coding (done completely in R), you can consult the [project primary repository](https://github.com/ipeaGIT/acesso_oport) and the [webapp repository](https://github.com/ipeaGIT/acesso_app)
 
+</div>
 
 <!--- </div> --->
 
-## Academic research <span style="color: grey; font-size: 20px; margin-left: 5px">(2017 - today)</span> <a name="experience_academic"></a>
-
-My work is at the intersection of transport and data analysis. In particular, my interest is in the estimation of **urban accessibility**, developing and applying methods to improve its estimation and accuracy.
-For this, I developed and applied in my master's a method that uses GPS data to correct timetables from [GTFS](https://developers.google.com/transit/gtfs), which contains the scheduled public transport service. On my ongoing PhD, I'm now more focused on how the usage of public transport data on accessibility calculations can impact both equity and policy evaluations. I have already published a [first article](https://www.sciencedirect.com/science/article/pii/S0966692323000625) showcasing how equity evaluations may be sensitive to your data choice while calculating travel times for accessibility.
 
 
-## Consulting and side projects <span style="color: grey; font-size: 20px; margin-left: 5px">(2020 - 2022)</span> <a name="experience_consulting"></a>
 
-I’ve been working as a freelancer on several projects. I’ve been collaborating with [ITDP Brazil](https://itdpbrasil.org/) (Institute for Transportation and Development Policy) on projects where I calculated accessibility indicators to impact public policy. I also co-coordinated a project at ITDP where we evaluated the impact of policies (such as the construction of new bus corridors) on both emissions and accessibility. I also worked with Rio de Janeiro’s Transportation Department
-(SMTR), where I created and ministered a [course on how to use bus GPS data to create and calculate meaningful public transport indicators](https://github.com/kauebraga/curso_r_transportes). Still with SMTR, I developed a [project](https://github.com/kauebraga/smtr_malha_cicloviaria) where I used bike sharing data to explore travel patterns and identify possible voids of bike infrastructure - that aimed to help the city on their new cycling plan. Lastly, I have consulted for [Transitar Consulting](https://www.transitarconsultoria.com/) on some projects regarding public transport data, and we are working on a project to develop [ITDP](https://www.itdp.org/)’s global platform to visualize, compare and download data. This project evolves talking to people all over the world to identify their priorities when visualizing transportation data, to finally develop the application.
-
-Also, when I have some time to spare, I also venture into some personal projects, especially interactive apps using [shiny](https://shiny.rstudio.com/). These works can be consulted on the [projects](/projects) tab.
 
 <!---
 </div>

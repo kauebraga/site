@@ -45,7 +45,7 @@ For this, I developed and applied in my master's a method that uses GPS data to 
 
 <h1 style="font-weight:800">Past experience</h1>
 
-<h2  id="experience_ipea" class="accordion" ><span>IPEA <span style="color: grey; font-size: 20px; margin-left: 5px">(March/2019 - August/2022)</span><a name="experience_ipea"></a></h2>
+<h2  id="experience_ipea" class="accordion" ><span>IPEA - Access to Opportunities project <span style="color: grey; font-size: 20px; margin-left: 5px">(March/2019 - August/2022)</span><a name="experience_ipea"></a></h2>
 
 <div class="accordion-content">
 

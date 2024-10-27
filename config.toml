@@ -56,7 +56,7 @@ unsafe= true
     enableTwemoji = true
 
     # Custom CSS
-    customCSS = ["css/custom.css"]
+    customCSS = ["css/custom.css", "css/boxes.css"]
 
     # Custom JS
     customJS = ["js/accordion.js"]
@@ -130,6 +130,11 @@ unsafe= true
             name = "Consulting"
             weight = 5
             url = "consulting/"
+
+            [[languages.en.menu.main]]
+            name = "Mobility Data Summit"
+            weight = 6
+            url = "summit/"
 
             # [[languages.en.menu.main]]
             # name = "Contact me"

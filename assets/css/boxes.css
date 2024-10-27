@@ -1,0 +1,40 @@
+        .container1 {
+           display: flex;
+            justify-content: center; /* Center the boxes horizontally */
+            align-items: center; /* Center the boxes vertically */
+            flex-wrap: wrap; /* Allow the boxes to wrap to the next line */
+            width: 100%;
+            max-width: 1200px; /* Max width for larger screens */
+            /* height: 100vh; /* Full height of the viewport */
+            margin: 0 auto; /* Center container */
+        }
+
+        .box1 {
+            flex: 1 1 calc(50% - 20px); /* Allow boxes to grow and shrink with a base width (50% minus margins) */
+            padding: 20px;
+            margin: 10px;
+            background-color: white;
+            border: 2px solid #ccc;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            transition: background-color 0.3s ease; /* Smooth transition for background */
+            max-width: 400px;
+        }
+
+        /* Media query for screen width less than 700px */
+        @media (max-width: 700px) {
+           .container1 {
+                flex-direction: column; /* Stack boxes vertically */
+                height: auto; /* Adjust height to fit content */
+            }
+            
+            
+            .box {
+                flex: 1 1 100%; /* Full width for each box in mobile view */
+            }
+            
+        }
+
+        .box1:hover {
+            background-color: #eaeaea; /* Change background color on hover */
+        }

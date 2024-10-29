@@ -19,6 +19,7 @@ At IPEA, while working on [Access to Opportunities project](/experience/#experie
 
 
 In addition, I have started developing my own R packages. One package currently in development is `gps2gtfs`, which uses public transport GPS data to correct GTFS feeds based on scheduled data. This package applies the method I developed in [this paper](https://www.sciencedirect.com/science/article/pii/S0966692323000625) as part of my PhD research.
+<p style = "color: red; font-weight: 800">This package is under heavy development, with expected release for December/2024</p> 
 
 <a href="https://github.com/kauebraga/gps2gtfs" target="_blank" style="text-decoration: none;">
 <button class="button">

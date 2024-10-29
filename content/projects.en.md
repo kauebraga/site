@@ -9,6 +9,16 @@ slug = "projects"
 <div class="container1" id="apps_galery">
     
 <div class="box1 button1" id = "teste_hover">
+      <a href="https://atlas.itdp.org/">
+        <img src="/images/app_atlas.png" alt="Atlas" style="height:200px">
+        <div class="w3-container w3-white" style="height: 230px;">
+          <h3>Atlas of Sustainable Transport</h3>
+      </a>
+          <p style="font-size: 16px">Atlas of Sustainable Transport, developed for ITDP</p>
+        </div>
+    </div>
+    
+<div class="box1 button1" id = "teste_hover">
       <a href="https://kauebraga.shinyapps.io/sitfor_linhas/">
         <img src="/images/app_sitfor.png" alt="App Sitfor" style="height:200px">
         <div class="w3-container w3-white" style="height: 230px;">

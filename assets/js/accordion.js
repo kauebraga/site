@@ -46,6 +46,3 @@ window.addEventListener('DOMContentLoaded', openAccordionFromHash);
 
 // Run the function again when the hash changes (e.g., when navigating to a new link)
 window.addEventListener('hashchange', openAccordionFromHash);
-
-
-document.querySelector('body > main > nav > section > ul > li:nth-child(5) > a').style.color = 'red';
